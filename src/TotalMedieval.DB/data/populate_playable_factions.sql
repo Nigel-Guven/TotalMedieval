@@ -19,7 +19,7 @@ SELECT
         WHEN id IS NOT NULL THEN 1  
         ELSE 0
     END AS is_playable
-FROM dbo.Faction
+FROM dbo.Factions
 
 INSERT INTO PlayableFactions (faction_id, is_playable)
 SELECT factionId, is_playable

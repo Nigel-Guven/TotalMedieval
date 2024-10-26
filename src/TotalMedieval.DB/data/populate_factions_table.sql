@@ -1,6 +1,6 @@
 ﻿-- Script adds every faction from KGCM to Factions table
 
-INSERT INTO dbo.Faction (name, ai_type, religion, starting_finance, kings_purse, long_name)
+INSERT INTO dbo.Factions (name, ai_type, religion, starting_finance, kings_purse, long_name)
 VALUES 
 
 ('antioch',			'balanced smith', 'catholic',		'19000', '3800', 'Principality of Antioch'),

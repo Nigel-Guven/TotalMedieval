@@ -1,7 +1,6 @@
 ﻿-- Script adds every faction from KGCM to Factions table
 
 INSERT INTO dbo.CampaignSettings(
-	id, 
 	start_date, 
 	end_date, 
 	marian_reforms, 

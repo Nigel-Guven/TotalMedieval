@@ -1,6 +1,6 @@
 ﻿-- Script adds every resource from KGCM to a resource table
 
-INSERT INTO dbo.Resource (resource_name, resource_value)
+INSERT INTO dbo.Resources (resource_name, resource_value)
 VALUES 
 ('gold',		'25'),
 ('silver',		'14'),
