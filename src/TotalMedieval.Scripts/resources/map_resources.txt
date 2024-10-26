@@ -1,0 +1,882 @@
+;Tenochtitlan_Province
+resource	timber,	  	 
+resource	gold,	  	 
+resource	gold,	 	 
+resource	tobacco,	 	 
+resource	chocolate,	 	 
+
+;Roman_Province
+resource	wool,	  	 
+resource	cotton,	  	 
+
+;Constantinople_Province
+resource	silk,	  	 
+resource	grain,	  	 
+resource	dyes,	  	 
+
+;Frankfurt_Province
+resource	wool,	  	 
+resource	coal,	  	 
+
+;Cordoba_Province
+resource	silver,	  	 
+resource	sugar,	  	 
+
+;Iconium_Province
+resource	sulfur,	  	 
+resource	iron,	  	 
+resource	wool,	  	 
+
+;London_Province
+resource	wool,	  	 
+resource	dyes,	  	 
+resource	tin,	  	 
+
+;Paris_Province
+resource	wine,	  	 
+resource	timber,	  	 
+resource	iron,	  	 
+
+;Cairo_Province
+resource	cotton,	  	 
+resource	sugar,	  	 
+
+;Sarkel_Province
+resource	silver,	  	 
+resource	timber,	  	 
+resource	slaves,	  	 
+
+;Kiev_Province
+resource	furs,	  	 
+resource	silver,	  	 
+resource	timber,	  	 
+resource	slaves,	  	 
+
+;Budapest_Province
+resource	wine,	  	 
+resource	timber,	  	 
+resource	iron,	  	 
+
+;Krakow_Province
+resource	furs,	  	 
+resource	silver,	  	 
+resource	sulfur,	  	 
+resource	slaves,	  	 
+
+;Arhus_Province
+resource	fish,	  	 
+resource	amber,	  	 
+
+;Lisbon_Province
+resource	marble,	  	 
+resource	tin,	  	 
+
+;Toledo_Province
+resource	iron,	  	 
+resource	wool,	  	 
+
+;Naples_Province
+resource	wool,	  	 
+resource	grain,	  	 
+resource	dyes,	  	 
+
+;Venice_Province
+resource	timber,	  	 
+resource	silk,	  	 
+resource	grain,	  	 
+resource	dyes,	  	 
+
+;Milan_Province
+resource	textiles,	  	 
+resource	grain,	  	 
+
+;Edinburgh_Province
+resource	furs,	  	 
+resource	timber,	  	 
+resource	iron,	  	 
+
+;Oslo_Province
+resource	furs,	  	 
+resource	fish,	  	 
+resource	timber,	  	 
+resource	iron,	  	 
+resource	amber,	  	 
+
+;Jerusalem_Province
+resource	wool,	  	 
+resource	sugar,	  	 
+
+;Antioch_Province
+resource	cotton,	  	 
+resource	sugar,	  	 
+
+;Vilnius_Province
+resource	furs,	  	 
+resource	timber,	  	 
+resource	slaves,	  	 
+
+;Marienburg_Province
+resource	timber,	  	 
+resource	iron,	  	 
+
+;Novgorod_Province
+resource	furs,	  	 
+resource	timber,	  	 
+resource	amber,	  	 
+
+;Cork_Province
+resource	timber,	  	 
+resource	iron,	  	 
+
+;Caernarvon_Province
+resource	wool,	  	 
+resource	coal,	  	 
+
+;Murom_Province
+resource	iron,	  	 
+resource	grain,	  	 
+
+;Tingvalla_Province
+resource	furs,	  	 
+resource	timber,	  	 
+
+;Tver_Province
+resource	furs,	  	 
+resource	iron,	  	 
+resource	amber,	  	 
+
+;Oran_Province
+resource	slaves,	  	 
+resource	sugar,	  	 
+
+;Malta_Province
+resource	fish,	  	 
+
+;Badajoz_Province
+resource	timber,	  	 
+resource	wool,	  	 
+
+;North_America
+resource	gold,	  	 
+resource	coal,	  	 
+resource	tobacco,	  	 
+
+;Malatya_Province
+resource	silk,	  	 
+resource	iron,	  	 
+
+;Huaxtepec_Province
+resource	silver,	 	 
+resource	tobacco,	  	 
+
+;Lancaster_Province
+resource	timber,	  	 
+resource	coal,	  	 
+
+;Castle_Town_Province
+resource	furs,	  	 
+resource	fish,	  	 
+
+;Wick_Province
+resource	fish,	  	 
+resource	wool,	  	 
+
+;Skara_Province
+resource	timber,	  	 
+resource	amber,	  	 
+
+;Agder_Province
+resource	fish,	  	 
+resource	amber,	  	 
+
+;Hrodna_Province
+resource	furs,	  	 
+resource	timber,	  	 
+resource	slaves,	  	 
+
+;Pskov_Province
+resource	furs,	  	 
+resource	timber,	  	 
+
+;Arensburg_Province
+resource	furs,	  	 
+resource	fish,	  	 
+
+;Poznan_Province
+resource	timber,	  	 
+resource	amber,	  	 
+
+;Palanga_Province
+resource	timber,	  	 
+resource	slaves,	  	 
+
+;Santiago_Province
+resource	timber,	  	 
+resource	coal,	  	 
+
+;Utrecht_Province
+resource	textiles,	  	 
+resource	dyes,	  	 
+
+;Galway_Province
+resource	furs,	  	 
+resource	timber,	  	 
+
+;Cardiff_Province
+resource	timber,	  	 
+resource	coal,	  	 
+
+;Visby_Province
+resource	silver,	  	 
+resource	timber,	  	 
+resource	amber,	  	 
+
+;Ancona_Province
+resource	marble,	  	 
+resource	timber,	  	 
+
+;Krak_de_Chevaliers_Province
+resource	sugar,	  	 
+
+;Valladolid_Province
+resource	timber,	  	 
+resource	iron,	  	 
+
+;Exeter_Province
+resource	wool,	  	 
+resource	dyes,	  	 
+resource	tin,	  	 
+
+;Gloucester_Province
+resource	dyes,	  	 
+resource	tin,	  	 
+
+;Clermont_Province
+resource	iron,	  	 
+resource	dyes,	  	 
+
+;Reval_Province
+resource	fish,	  	 
+resource	timber,	  	 
+
+;Lund_Province
+resource	timber,	  	 
+resource	amber,	  	 
+
+;Kerak_Province
+resource	silk,	  	 
+resource	wool,	  	 
+
+;Konigsberg_Province
+resource	timber,	  	 
+resource	amber,	  	 
+
+;Danzig_Province
+resource	furs,	  	 
+resource	amber,	  	 
+
+;Inverness_Province
+resource	timber,	  	 
+resource	wool,	  	 
+
+;Aberdeen_Province
+resource	fish,	  	 
+resource	iron,	  	 
+
+;Dumfries_Province
+resource	fish,	  	 
+resource	timber,	  	 
+
+;Stockholm_Province
+resource	furs,	  	 
+resource	fish,	  	 
+resource	timber,	  	 
+resource	iron,	  	 
+resource	amber,	  	 
+
+;Kalmar_Province
+resource	furs,	  	 
+resource	fish,	  	 
+resource	timber,	  	 
+resource	iron,	  	 
+resource	amber,	  	 
+
+;Helsinki_Province
+resource	furs,	  	 
+resource	fish,	  	 
+resource	silver,	  	 
+resource	timber,	  	 
+
+;Moscow_Province
+resource	furs,	  	 
+resource	timber,	  	 
+resource	grain,	  	 
+
+;Belo-Ozero_Province
+resource	furs,	  	 
+resource	timber,	  	 
+
+;Volga-Bulgar_Province
+resource	silver,	  	 
+resource	timber,	  	 
+resource	slaves,	  	 
+
+;Viatka_Province
+resource	furs,	  	 
+resource	timber,	  	 
+resource	slaves,	  	 
+
+;Riga_Province
+resource	furs,	  	 
+resource	timber,	  	 
+resource	amber,	  	 
+
+;Smolensk_Province
+resource	furs,	  	 
+resource	timber,	  	 
+
+;Dublin_Province
+resource	furs,	  	 
+resource	silver,	  	 
+
+;Wexford_Province
+resource	furs,	  	 
+resource	timber,	  	 
+
+;Donegal_Province
+resource	furs,	  	 
+resource	timber,	  	 
+resource	iron,	  	 
+
+;York_Province
+resource	wool,	  	 
+resource	coal,	  	 
+
+;Cuba
+resource	silver,	  	 
+resource	timber,	  	 
+
+;Ryazan_Province
+resource	timber,	  	 
+resource	iron,	  	 
+
+;Nottingham_Province
+resource	wool,	  	 
+resource	dyes,	  	 
+
+;Stettin_Province
+resource	furs,	  	 
+resource	timber,	  	 
+
+;Hamburg_Province
+resource	furs,	  	 
+resource	silver,	  	 
+resource	timber,	  	 
+
+;Roskilde_Province
+resource	fish,	  	 
+resource	iron,	  	 
+resource	amber,	  	 
+
+;Tollan_Province
+resource	dyes,	  	 
+resource	gold,	 	 
+resource	tobacco,	 	 
+
+;Azov_Province
+resource	silver,	  	 
+resource	timber,	  	 
+resource	slaves,	  	 
+
+;Atil_Province
+resource	furs,	  	 
+resource	timber,	  	 
+resource	slaves,	  	 
+
+;Samandar_Province
+resource	furs,	  	 
+resource	timber,	  	 
+resource	slaves,	  	 
+
+;Antwerp_Province
+resource	textiles,	  	 
+resource	dyes,	  	 
+
+;Magdeburg_Province
+resource	timber,	  	 
+resource	wool,	  	 
+
+;Halych_Province
+resource	furs,	  	 
+resource	timber,	  	 
+resource	slaves,	  	 
+
+;Peremyshl_Province
+resource	furs,	  	 
+resource	timber,	  	 
+
+;Tzernigov_Province
+resource	furs,	  	 
+resource	timber,	  	 
+resource	sulfur,	  	 
+resource	slaves,	  	 
+
+;Kozelsk_Province
+resource	furs,	  	 
+resource	timber,	  	 
+resource	sulfur,	  	 
+resource	slaves,	  	 
+
+;Turov_Province
+resource	furs,	  	 
+resource	sulfur,	  	 
+resource	slaves,	  	 
+
+;Minsk_Province
+resource	timber,	  	 
+resource	sulfur,	  	 
+resource	slaves,	  	 
+
+;Bruges_Province
+resource	textiles,	  	 
+resource	dyes,	  	 
+
+;Metz_Province
+resource	timber,	  	 
+resource	iron,	  	 
+
+;Caen_Province
+resource	timber,	  	 
+resource	dyes,	  	 
+
+;Prague_Province
+resource	timber,	  	 
+resource	coal,	  	 
+resource	tin,	  	 
+
+;Rheims_Province
+resource	iron,	  	 
+resource	coal,	  	 
+
+;Rennes_Province
+resource	fish,	  	 
+resource	wine,	  	 
+
+;Nuremburg_Province
+resource	wine,	  	 
+resource	timber,	  	 
+resource	iron,	  	 
+resource	tin,	  	 
+
+;Hohenstauffen_Province
+resource	furs,	  	 
+resource	wine,	  	 
+resource	timber,	  	 
+
+;Iasi_Province
+resource	wine,	  	 
+resource	timber,	  	 
+resource	iron,	  	 
+
+;Tixtla_Province
+resource	gold,	 	 
+resource	tobacco,	 	 
+resource	chocolate,	 	 
+
+;Angers_Province
+resource	wine,	  	 
+resource	timber,	  	 
+resource	iron,	  	 
+
+;Bran_Province
+resource	wine,	  	 
+resource	timber,	  	 
+resource	iron,	  	 
+
+;Tmutarakan_Province
+resource	furs,	  	 
+
+;Cherson_Province
+resource	silver,	  	 
+resource	timber,	  	 
+resource	slaves,	  	 
+
+;Vienna_Province
+resource	silver,	  	 
+resource	timber,	  	 
+resource	iron,	  	 
+
+;Dijon_Province
+resource	wine,	  	 
+resource	iron,	  	 
+resource	coal,	  	 
+
+;Bern_Province
+resource	furs,	  	 
+resource	timber,	  	 
+
+;Innsbruck_Province
+resource	furs,	  	 
+resource	timber,	  	 
+
+;Bordeaux_Province
+resource	wine,	  	 
+resource	dyes,	  	 
+
+;Tbilisi_Province
+resource	furs,	  	 
+resource	timber,	  	 
+resource	slaves,	  	 
+
+;Kutais_Province
+resource	furs,	  	 
+resource	timber,	  	 
+resource	slaves,	  	 
+
+;Bucharest_Province
+resource	wine,	  	 
+resource	iron,	  	 
+
+;Turin_Province
+resource	furs,	  	 
+resource	tin,	  	 
+
+;Toulouse_Province
+resource	iron,	  	 
+resource	dyes,	  	 
+
+;Barcelona_Province
+resource	silver,	  	 
+resource	dyes,	  	 
+
+;Leon_Province
+resource	wool,	  	 
+resource	coal,	  	 
+
+;Zagreb_Province
+resource	timber,	  	 
+resource	iron,	  	 
+
+;Belgrade_Province
+resource	timber,	  	 
+resource	iron,	  	 
+
+;Sofia_Province
+resource	furs,	  	 
+resource	timber,	  	 
+
+;Preslav_Province
+resource	wine,	  	 
+resource	iron,	  	 
+
+;Ragusa_Province
+resource	wine,	  	 
+resource	timber,	  	 
+resource	iron,	  	 
+
+;Zara_Province
+resource	wine,	  	 
+resource	timber,	  	 
+resource	iron,	  	 
+
+;Bologna_Province
+resource	marble,	  	 
+resource	cotton,	  	 
+
+;Pamplona_Province
+resource	marble,	  	 
+resource	wool,	  	 
+
+;Genoa_Province
+resource	marble,	  	 
+resource	textiles,	  	 
+
+;Florence_Province
+resource	marble,	  	 
+resource	cotton,	  	 
+resource	dyes,	  	 
+
+;Trebizond_Province
+resource	silver,	  	 
+resource	sulfur,	  	 
+
+;Sinope_Province
+resource	silver,	  	 
+resource	silver,	  	 
+resource	sulfur,	  	 
+
+;Marseille_Province
+resource	wine,	  	 
+resource	dyes,	  	 
+
+;Yerevan_Province
+resource	silk,	  	 
+resource	iron,	  	 
+
+;Tabriz_Province
+resource	silk,	  	 
+resource	iron,	  	 
+
+;Zaragoza_Province
+resource	iron,	  	 
+resource	grain,	  	 
+resource	dyes,	  	 
+
+;Oporto_Province
+resource	marble,	  	 
+resource	timber,	  	 
+
+;Thessalonica_Province
+resource	marble,	  	 
+resource	timber,	  	 
+resource	sulfur,	  	 
+
+;Ajaccio_Province
+resource	wine,	  	 
+resource	textiles,	  	 
+
+;Nicaea_Province
+resource	silk,	  	 
+resource	grain,	  	 
+resource	dyes,	  	 
+
+;Athens_Province
+resource	wine,	  	 
+resource	marble,	  	 
+resource	grain,	  	 
+resource	dyes,	  	 
+
+;Adrianople_Province
+resource	wine,	  	 
+resource	grain,	  	 
+resource	dyes,	  	 
+
+;Abydus_Province
+resource	wine,	  	 
+
+;Bari_Province
+resource	marble,	  	 
+resource	wool,	  	 
+resource	dyes,	  	 
+
+;Syracuse_Province
+resource	sulfur,	  	 
+resource	wool,	  	 
+
+;Caesarea_Province
+resource	timber,	  	 
+resource	silk,	  	 
+resource	iron,	  	 
+
+;Ankara_Province
+resource	timber,	  	 
+resource	silk,	  	 
+resource	iron,	  	 
+
+;Baghdad_Province
+resource	sulfur,	  	 
+resource	silk,	  	 
+
+;Sevilla_Province
+resource	silver,	  	 
+resource	sugar,	  	 
+
+;Durazzo_Province
+resource	marble,	  	 
+resource	timber,	  	 
+resource	grain,	  	 
+resource	dyes,	  	 
+
+;Kerkyra_Province
+resource	fish,	  	 
+resource	silver,	  	 
+resource	wine,	  	 
+
+;Valencia_Province
+resource	silver,	  	 
+resource	wine,	  	 
+resource	timber,	  	 
+
+;Mallorca_Province
+resource	silver,	  	 
+resource	wine,	  	 
+resource	timber,	  	 
+
+;Adana_Province
+resource	sulfur,	  	 
+resource	wool,	  	 
+
+;Attalia_Province
+resource	sulfur,	  	 
+resource	wool,	  	 
+
+;Mosul_Province
+resource	silk,	  	 
+resource	cotton,	  	 
+
+;Cagliari_Province
+resource	fish,	  	 
+resource	silver,	  	 
+
+;Edessa_Province
+resource	silver,	  	 
+resource	silk,	  	 
+
+;Smyrna_Province
+resource	wine,	  	 
+resource	timber,	  	 
+resource	iron,	  	 
+
+;Granada_Province
+resource	cotton,	  	 
+resource	sugar,	  	 
+
+;Brazil
+resource	gold,	 	 
+resource	tobacco,	  	 
+resource	chocolate,	  	 
+
+;Aleppo_Province
+resource	silver,	  	 
+resource	silk,	  	 
+
+;Ayla_Province
+resource	silk,	  	 
+resource	iron,	  	 
+
+;Al_Suways_Province
+resource	fish,	  	 
+resource	iron,	  	 
+
+;Mekka_Province
+resource	marble,	  	 
+resource	silk,	  	 
+resource	iron,	  	 
+
+;Medina_Province
+resource	slaves,	  	 
+resource	silk,	  	 
+
+;Buraidah_Province
+resource	slaves,	  	 
+resource	silk,	  	 
+resource	iron,	  	 
+
+;Palermo_Province
+resource	sulfur,	  	 
+resource	cotton,	  	 
+resource	grain,	  	 
+
+;Corinth_Province
+resource	silver,	  	 
+resource	marble,	  	 
+
+;Marrakesh_Province
+resource	iron,	  	 
+resource	cotton,	  	 
+resource	sugar,	  	 
+
+;Fez_Province
+resource	sulfur,	  	 
+resource	iron,	  	 
+resource	wool,	  	 
+
+;Sijilmasa_Province
+resource	iron,	  	 
+resource	cotton,	  	 
+resource	sugar,	  	 
+
+;Isle_of_Cyprus
+resource	silver,	  	 
+resource	wine,	  	 
+
+;Isle_of_Cyprus2
+resource	silver,	  	 
+resource	silk,	  	 
+resource	sugar,	  	 
+
+;Damascus_Province
+resource	cotton,	  	 
+resource	sugar,	  	 
+
+;Algiers_Province
+resource	iron,	  	 
+resource	cotton,	  	 
+resource	sugar,	  	 
+
+;Tunis_Province
+resource	iron,	  	 
+resource	cotton,	  	 
+resource	sugar,	  	 
+
+;Acre_Province
+resource	silver,	  	 
+resource	silk,	  	 
+
+;Isle_of_Rhodes
+resource	silver,	  	 
+resource	wine,	  	 
+resource	marble,	  	 
+
+;Isle_of_Crete
+resource	silver,	  	 
+resource	silk,	  	 
+resource	cotton,	  	 
+
+;Tyre_Province
+resource	fish,	  	 
+resource	silk,	  	 
+
+;Ascalon_Province
+resource	silk,	  	 
+resource	iron,	  	 
+
+;Tripoli_Province
+resource	slaves,	  	 
+resource	cotton,	  	 
+resource	sugar,	  	 
+
+;Al-Mahdiya_Province
+resource	slaves,	  	 
+resource	cotton,	  	 
+resource	sugar,	  	 
+
+;Al-Mansurya_Province
+resource	slaves,	  	 
+resource	cotton,	  	 
+resource	sugar,	  	 
+
+;Barqa_Province
+resource	timber,	  	 
+resource	slaves,	  	 
+resource	cotton,	  	 
+resource	sugar,	  	 
+resource	gold,	  	 
+
+;Alexandria_Province
+resource	silver,	  	 
+resource	cotton,	  	 
+resource	sugar,	  	 
+
+;Dumyat_Province
+resource	cotton,	  	 
+resource	sugar,	  	 
+
+;Arguin_Province
+resource	slaves,	  	 
+resource	ivory,	  	 
+resource	gold,	  	 
+
+;Timbuktu_Province
+resource	slaves,	  	 
+resource	ivory,	  	 
+resource	gold,	  	 
+
+;Thebes_Province
+resource	timber,	  	 
+resource	cotton,	  	 
+resource	sugar,	  	 
+
+;Dongola_Province
+resource	slaves,	  	 
+resource	ivory,	  	 
