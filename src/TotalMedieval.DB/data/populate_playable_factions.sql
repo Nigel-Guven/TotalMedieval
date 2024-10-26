@@ -1,5 +1,8 @@
 ﻿-- Populate Playable Factions Table, default
 
+-- Enable IDENTITY_INSERT for the PlayableFactions table
+SET IDENTITY_INSERT PlayableFactions ON;
+
 IF OBJECT_ID('tempdb..#factionIdList') IS NOT NULL
     DROP TABLE #factionIdList
 
@@ -21,6 +24,9 @@ SELECT
     END AS is_playable
 FROM dbo.Factions
 
-INSERT INTO PlayableFactions (faction_id, is_playable)
+INSERT INTO PlayableFactions (id, is_playable)
 SELECT factionId, is_playable
 FROM #factionIdList
+
+-- Disable IDENTITY_INSERT for the PlayableFactions table
+SET IDENTITY_INSERT PlayableFactions OFF;
