@@ -61,10 +61,15 @@
     <Folder Include="data" />
   </ItemGroup>
   <ItemGroup>
-    <Build Include="tables\Faction.sql" />
+    <Build Include="tables\Factions.sql" />
     <Build Include="tables\CampaignSettings.sql" />
-    <Build Include="tables\Resource.sql" />
+    <Build Include="tables\Resources.sql" />
     <Build Include="tables\PlayableFactions.sql" />
+    <Build Include="tables\Provinces.sql" />
+    <Build Include="tables\Religions.sql" />
+    <Build Include="tables\HiddenResources.sql" />
+    <Build Include="tables\ProvinceReligions.sql" />
+    <Build Include="tables\ProvinceHiddenResources.sql" />
   </ItemGroup>
   <ItemGroup>
     <RefactorLog Include="log\TotalMedieval.DB.refactorlog" />
@@ -73,5 +78,6 @@
     <None Include="data\populate_factions_table.sql" />
     <None Include="data\populate_resources.sql" />
     <None Include="data\populate_playable_factions.sql" />
+    <None Include="data\populate_campaign_settings.sql" />
   </ItemGroup>
 </Project>

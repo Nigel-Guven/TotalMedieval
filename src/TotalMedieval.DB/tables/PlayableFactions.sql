@@ -3,4 +3,6 @@
 	[id] INT IDENTITY(1,1) NOT NULL PRIMARY KEY, 
     [faction_id] INT NOT NULL, 
     [is_playable] BIT NOT NULL, 
+
+    FOREIGN KEY ([faction_id]) REFERENCES Factions(id)
 )

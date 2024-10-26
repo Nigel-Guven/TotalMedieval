@@ -1,8 +1,8 @@
 ﻿CREATE TABLE [dbo].[CampaignSettings]
 (
 	[id] INT IDENTITY(1,1) NOT NULL PRIMARY KEY,
-    [start_date] INT NOT NULL, 
-    [end_date] INT NOT NULL, 
+    [start_date] NVARCHAR(20) NOT NULL, 
+    [end_date] NVARCHAR(20) NOT NULL, 
     [marian_reforms] NVARCHAR(50) NOT NULL, 
     [rebelling_characters] NVARCHAR(50) NOT NULL, 
     [gladiator_uprising] NVARCHAR(50) NOT NULL, 

@@ -1,6 +1,6 @@
-﻿CREATE TABLE [dbo].[Resource]
+﻿CREATE TABLE [dbo].[Resources]
 (
 	[id] INT IDENTITY(1,1) NOT NULL PRIMARY KEY, 
-    [resource_name] NCHAR(10) NOT NULL, 
+    [resource_name] NVARCHAR(10) NOT NULL, 
     [resource_value] TINYINT NOT NULL,
 )

@@ -1,4 +1,4 @@
-﻿CREATE TABLE [dbo].[Faction]
+﻿CREATE TABLE [dbo].[Factions]
 (
 	[id] INT IDENTITY(1,1) NOT NULL PRIMARY KEY, 
     [name] NVARCHAR(50) NOT NULL, 
