@@ -8,11 +8,13 @@ Tenochtitlan_Province:
 Roman_Province:
   - wool
   - cotton
+  - wine
 
 Constantinople_Province:
   - silk
   - grain
   - dyes
+  - wine
 
 Frankfurt_Province:
   - wool
@@ -40,6 +42,7 @@ Paris_Province:
 Cairo_Province:
   - cotton
   - sugar
+  - silk
 
 Sarkel_Province:
   - silver
@@ -70,6 +73,7 @@ Arhus_Province:
 Lisbon_Province:
   - marble
   - tin
+  - wine
 
 Toledo_Province:
   - iron
@@ -105,10 +109,12 @@ Oslo_Province:
 Jerusalem_Province:
   - wool
   - sugar
+  - silver
 
 Antioch_Province:
   - cotton
   - sugar
+  - iron
 
 Vilnius_Province:
   - furs
@@ -123,6 +129,7 @@ Novgorod_Province:
   - furs
   - timber
   - amber
+  - furs
 
 Cork_Province:
   - timber
@@ -151,6 +158,7 @@ Oran_Province:
 
 Malta_Province:
   - fish
+  - wine
 
 Badajoz_Province:
   - timber
@@ -197,10 +205,12 @@ Hrodna_Province:
 Pskov_Province:
   - furs
   - timber
+  - amber
 
 Arensburg_Province:
   - furs
   - fish
+  - amber
 
 Poznan_Province:
   - timber
@@ -209,6 +219,7 @@ Poznan_Province:
 Palanga_Province:
   - timber
   - slaves
+  - amber
 
 Santiago_Province:
   - timber
@@ -234,6 +245,7 @@ Visby_Province:
 Ancona_Province:
   - marble
   - timber
+  - sugar
 
 Krak_de_Chevaliers_Province:
   - sugar
@@ -241,6 +253,7 @@ Krak_de_Chevaliers_Province:
 Valladolid_Province:
   - timber
   - iron
+  - fish
 
 Exeter_Province:
   - wool
@@ -254,18 +267,22 @@ Gloucester_Province:
 Clermont_Province:
   - iron
   - dyes
+  - wine
 
 Reval_Province:
   - fish
   - timber
+  - amber
 
 Lund_Province:
   - timber
   - amber
+  - timber
 
 Kerak_Province:
   - silk
   - wool
+  - camels
 
 Konigsberg_Province:
   - timber
@@ -315,6 +332,7 @@ Moscow_Province:
 Belo-Ozero_Province:
   - furs
   - timber
+  - dogs
 
 Volga-Bulgar_Province:
   - silver
@@ -325,10 +343,12 @@ Viatka_Province:
   - furs
   - timber
   - slaves
+  - fish
 
 Riga_Province:
   - furs
   - timber
+  - amber
   - amber
 
 Smolensk_Province:
@@ -338,6 +358,7 @@ Smolensk_Province:
 Dublin_Province:
   - furs
   - silver
+  - slaves
 
 Wexford_Province:
   - furs
@@ -367,6 +388,7 @@ Nottingham_Province:
 Stettin_Province:
   - furs
   - timber
+  - amber
 
 Hamburg_Province:
   - furs
@@ -392,11 +414,13 @@ Atil_Province:
   - furs
   - timber
   - slaves
+  - fish
 
 Samandar_Province:
   - furs
   - timber
   - slaves
+  - cotton
 
 Antwerp_Province:
   - textiles
@@ -440,6 +464,7 @@ Minsk_Province:
 Bruges_Province:
   - textiles
   - dyes
+  - wool
 
 Metz_Province:
   - timber
@@ -453,10 +478,12 @@ Prague_Province:
   - timber
   - coal
   - tin
+  - iron
 
 Rheims_Province:
   - iron
   - coal
+  - wine
 
 Rennes_Province:
   - fish
@@ -477,6 +504,7 @@ Iasi_Province:
   - wine
   - timber
   - iron
+  - timber
 
 Tixtla_Province:
   - gold
@@ -495,6 +523,8 @@ Bran_Province:
 
 Tmutarakan_Province:
   - furs
+  - fish
+  - slaves
 
 Cherson_Province:
   - silver
@@ -527,15 +557,18 @@ Tbilisi_Province:
   - furs
   - timber
   - slaves
+  - sugar
 
 Kutais_Province:
   - furs
   - timber
   - slaves
+  - wine
 
 Bucharest_Province:
   - wine
   - iron
+  - fish
 
 Turin_Province:
   - furs
@@ -548,6 +581,7 @@ Toulouse_Province:
 Barcelona_Province:
   - silver
   - dyes
+  - sugar
 
 Leon_Province:
   - wool
@@ -608,9 +642,11 @@ Sinope_Province:
 Marseille_Province:
   - wine
   - dyes
+  - marble
 
 Yerevan_Province:
   - silk
+  - iron
   - iron
 
 Tabriz_Province:
@@ -625,6 +661,7 @@ Zaragoza_Province:
 Oporto_Province:
   - marble
   - timber
+  - wine
 
 Thessalonica_Province:
   - marble
@@ -639,6 +676,7 @@ Nicaea_Province:
   - silk
   - grain
   - dyes
+  - silk
 
 Athens_Province:
   - wine
@@ -653,6 +691,7 @@ Adrianople_Province:
 
 Abydus_Province:
   - wine
+  - fish
 
 Bari_Province:
   - marble
@@ -662,6 +701,8 @@ Bari_Province:
 Syracuse_Province:
   - sulfur
   - wool
+  - fish
+  - wine
 
 Caesarea_Province:
   - timber
@@ -676,10 +717,13 @@ Ankara_Province:
 Baghdad_Province:
   - sulfur
   - silk
+  - elephants
 
 Sevilla_Province:
   - silver
   - sugar
+  - wine
+  - wine
 
 Durazzo_Province:
   - marble
@@ -696,11 +740,14 @@ Valencia_Province:
   - silver
   - wine
   - timber
+  - fish
+  - silk
 
 Mallorca_Province:
   - silver
   - wine
   - timber
+  - sugar
 
 Adana_Province:
   - sulfur
@@ -713,14 +760,17 @@ Attalia_Province:
 Mosul_Province:
   - silk
   - cotton
+  - silk
 
 Cagliari_Province:
   - fish
   - silver
+  - fish
 
 Edessa_Province:
   - silver
   - silk
+  - iron
 
 Smyrna_Province:
   - wine
@@ -735,6 +785,7 @@ Brazil:
   - gold
   - tobacco
   - chocolate
+  - timber
 
 Aleppo_Province:
   - silver
@@ -752,6 +803,7 @@ Mekka_Province:
   - marble
   - silk
   - iron
+  - silk
 
 Medina_Province:
   - slaves
@@ -761,6 +813,7 @@ Buraidah_Province:
   - slaves
   - silk
   - iron
+  - slaves
 
 Palermo_Province:
   - sulfur
@@ -780,6 +833,8 @@ Fez_Province:
   - sulfur
   - iron
   - wool
+  - timber
+  - iron
 
 Sijilmasa_Province:
   - iron
@@ -789,6 +844,7 @@ Sijilmasa_Province:
 Isle_of_Cyprus:
   - silver
   - wine
+  - fish
 
 Isle_of_Cyprus2:
   - silver
@@ -798,11 +854,14 @@ Isle_of_Cyprus2:
 Damascus_Province:
   - cotton
   - sugar
+  - iron
 
 Algiers_Province:
   - iron
   - cotton
   - sugar
+  - silver
+  - slaves
 
 Tunis_Province:
   - iron
@@ -826,15 +885,19 @@ Isle_of_Crete:
 Tyre_Province:
   - fish
   - silk
+  - dyes
+  - cotton
 
 Ascalon_Province:
   - silk
   - iron
+  - spices
 
 Tripoli_Province:
   - slaves
   - cotton
   - sugar
+  - slaves
 
 Al-Mahdiya_Province:
   - slaves
@@ -866,16 +929,19 @@ Arguin_Province:
   - slaves
   - ivory
   - gold
+  - timber
 
 Timbuktu_Province:
   - slaves
   - ivory
   - gold
+  - slaves
 
 Thebes_Province:
   - timber
   - cotton
   - sugar
+  - cotton
 
 Dongola_Province:
   - slaves
