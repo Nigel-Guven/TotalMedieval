@@ -1,8 +1,10 @@
 using Microsoft.AspNetCore.Authentication.Negotiate;
+using TotalMedieval.Api.ResourceApi;
 
 var builder = WebApplication.CreateBuilder(args);
 
-builder.Services.AddControllers();
+builder.Services.AddControllers()
+    .AddApplicationPart(typeof(ResourceModule).Assembly);
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 

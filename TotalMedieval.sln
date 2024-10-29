@@ -12,15 +12,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionFiles", "SolutionFi
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "TotalMedieval.Scripts", "src\TotalMedieval.Scripts\TotalMedieval.Scripts.pyproj", "{D01D8429-8360-41C5-9F4D-4353F4756DD1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TotalMedieval.Application", "src\TotalMedieval.Application\TotalMedieval.Application.csproj", "{F2E087D6-6C6B-4843-9AE2-6D54C6B436E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TotalMedieval.Application", "src\TotalMedieval.Application\TotalMedieval.Application.csproj", "{F2E087D6-6C6B-4843-9AE2-6D54C6B436E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TotalMedieval.Domain", "src\TotalMedieval.Domain\TotalMedieval.Domain.csproj", "{C2F86824-32B0-4941-9A8E-5473879FE41A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TotalMedieval.Domain", "src\TotalMedieval.Domain\TotalMedieval.Domain.csproj", "{C2F86824-32B0-4941-9A8E-5473879FE41A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TotalMedieval.Api", "src\TotalMedieval.Api\TotalMedieval.Api.csproj", "{24E37D3F-7C5A-43DF-AF55-85B84FFD9C42}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TotalMedieval.Api", "src\TotalMedieval.Api\TotalMedieval.Api.csproj", "{24E37D3F-7C5A-43DF-AF55-85B84FFD9C42}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Total.Medieval.Service", "src\Total.Medieval.Service\Total.Medieval.Service.csproj", "{7B609E10-466B-49CD-9679-C4D8FCC3D0C5}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TotalMedieval.WebApi", "src\TotalMedieval.WebApi\TotalMedieval.WebApi.csproj", "{DB21306C-953C-481A-841D-611D228DD5E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TotalMedieval.WebApi", "src\TotalMedieval.WebApi\TotalMedieval.WebApi.csproj", "{DB21306C-953C-481A-841D-611D228DD5E5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -48,10 +46,6 @@ Global
 		{24E37D3F-7C5A-43DF-AF55-85B84FFD9C42}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24E37D3F-7C5A-43DF-AF55-85B84FFD9C42}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24E37D3F-7C5A-43DF-AF55-85B84FFD9C42}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7B609E10-466B-49CD-9679-C4D8FCC3D0C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7B609E10-466B-49CD-9679-C4D8FCC3D0C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7B609E10-466B-49CD-9679-C4D8FCC3D0C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7B609E10-466B-49CD-9679-C4D8FCC3D0C5}.Release|Any CPU.Build.0 = Release|Any CPU
 		{DB21306C-953C-481A-841D-611D228DD5E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{DB21306C-953C-481A-841D-611D228DD5E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB21306C-953C-481A-841D-611D228DD5E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
