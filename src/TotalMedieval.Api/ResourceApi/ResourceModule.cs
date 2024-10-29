@@ -18,7 +18,7 @@ namespace TotalMedieval.Api.ResourceApi
         [HttpPost("add_resource")]
         public IActionResult AddProvinceData([FromBody] ProvinceResourceCommand request)
         {
-            if (request == null || string.IsNullOrEmpty(request.ProvinceName))
+            if (request == null)
             {
                 return BadRequest("Invalid request data.");
             }

@@ -2,15 +2,18 @@
 {
     public class ProvinceResource
     {
-        public string ProvinceName { get; set; }
+        public int ProvinceId { get; set; }
+
+        public int ResourceId { get; set; }
 
         public int XCoordinate { get; set; }
 
         public int YCoordinate { get; set; }
 
-        public ProvinceResource (string provinceName, int xCoordinate, int yCoordinate)
+        public ProvinceResource (int provinceName, int resourceId, int xCoordinate, int yCoordinate)
         {
-            ProvinceName = provinceName;
+            ProvinceId = provinceName;
+            ResourceId = resourceId;
             XCoordinate = xCoordinate;
             YCoordinate = yCoordinate;
         }

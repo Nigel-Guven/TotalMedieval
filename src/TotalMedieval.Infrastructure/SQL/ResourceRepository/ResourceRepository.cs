@@ -13,18 +13,18 @@ namespace TotalMedieval.Infrastructure.SQL.ResourceRepository
             _connectionString = connectionString;
         }
 
-        public async Task InsertProvinceResource(string provinceName, double xCoordinate, double yCoordinate)
+        public async Task InsertProvinceResource(int provinceId, int resourceId, int xCoordinate, int yCoordinate)
         {
             using IDbConnection db = new SqlConnection(_connectionString);
 
-            var sqlQuery = "add_province_resource";
+            var sqlQuery = "[dbo].[add_province_resource]";
 
             var parameters = new
             {
-                ProvinceName = provinceName,
-                Resourceid = 1,
-                XCoordinate = xCoordinate,
-                YCoordinate = yCoordinate
+                province_id = provinceId,
+                resource_id = resourceId,
+                x = xCoordinate,
+                y = yCoordinate
             };
 
             // Execute the stored procedure

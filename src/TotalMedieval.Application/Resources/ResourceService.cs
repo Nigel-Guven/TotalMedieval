@@ -14,9 +14,10 @@ namespace TotalMedieval.Application.Resources
 
         public async Task AddProvinceResource(ProvinceResourceCommand provinceResourceCommand)
         {
-            ProvinceResource provinceResource = new(provinceResourceCommand.ProvinceName, provinceResourceCommand.XCoordinate, provinceResourceCommand.YCoordinate);
+            ProvinceResource provinceResource = 
+                new(provinceResourceCommand.ProvinceId, provinceResourceCommand.ResourceId, provinceResourceCommand.XCoordinate, provinceResourceCommand.YCoordinate);
 
-            await _resourceRepository.InsertProvinceResource(provinceResource.ProvinceName, provinceResource.XCoordinate, provinceResource.YCoordinate);
+            await _resourceRepository.InsertProvinceResource(provinceResource.ProvinceId, provinceResource.ResourceId, provinceResource.XCoordinate, provinceResource.YCoordinate);
         }
     }
 }

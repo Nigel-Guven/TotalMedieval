@@ -6,9 +6,13 @@ namespace TotalMedieval.Domain.Resources
 {
     public class ProvinceResourceCommand
     {
-        [JsonPropertyName("province_name")]
+        [JsonPropertyName("province_id")]
         [Required]
-        public string? ProvinceName { get; set; } = string.Empty;
+        public int ProvinceId { get; set; }
+
+        [JsonPropertyName("resource_id")]
+        [Required]
+        public int ResourceId { get; set; }
 
         [JsonPropertyName("x_coordinate")]
         [Required]

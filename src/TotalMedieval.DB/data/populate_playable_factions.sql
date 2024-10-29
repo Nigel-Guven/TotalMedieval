@@ -14,17 +14,17 @@ CREATE TABLE #factionIdList
 
 INSERT INTO #factionIdList(factionId, is_playable)
 SELECT 
-    id AS factionId, 
+    faction_id AS factionId, 
     CASE 
-        WHEN id = 30 THEN 0
-        WHEN id = 18 THEN 0
-        WHEN id = 2 THEN 0
-        WHEN id IS NOT NULL THEN 1  
+        WHEN faction_id = 30 THEN 0
+        WHEN faction_id = 18 THEN 0
+        WHEN faction_id = 2 THEN 0
+        WHEN faction_id IS NOT NULL THEN 1  
         ELSE 0
     END AS is_playable
 FROM dbo.Factions
 
-INSERT INTO PlayableFactions (id, is_playable)
+INSERT INTO PlayableFactions (faction_id, is_playable)
 SELECT factionId, is_playable
 FROM #factionIdList
 

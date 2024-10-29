@@ -5,6 +5,6 @@
     x INT NOT NULL,
     y INT NOT NULL,
     PRIMARY KEY (province_id, resource_id),
-    FOREIGN KEY (province_id) REFERENCES Provinces(id),
-    FOREIGN KEY (resource_id) REFERENCES Resources(id)
+    FOREIGN KEY (province_id) REFERENCES Provinces(province_id),
+    FOREIGN KEY (resource_id) REFERENCES Resources(resource_id)
 )
