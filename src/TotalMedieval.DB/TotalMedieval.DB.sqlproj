@@ -59,6 +59,7 @@
     <Folder Include="tables" />
     <Folder Include="log" />
     <Folder Include="data" />
+    <Folder Include="sprocs" />
   </ItemGroup>
   <ItemGroup>
     <Build Include="tables\Factions.sql" />
@@ -71,6 +72,7 @@
     <Build Include="tables\ProvinceReligions.sql" />
     <Build Include="tables\ProvinceHiddenResources.sql" />
     <Build Include="tables\ProvinceResources.sql" />
+    <Build Include="sprocs\add_province_resource.sql" />
   </ItemGroup>
   <ItemGroup>
     <RefactorLog Include="log\TotalMedieval.DB.refactorlog" />

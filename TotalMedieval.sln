@@ -16,6 +16,10 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "TotalMedieval.Scripts", "sr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TotalMedieval.Application", "src\TotalMedieval.Application\TotalMedieval.Application.csproj", "{F2E087D6-6C6B-4843-9AE2-6D54C6B436E0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TotalMedieval.Domain", "src\TotalMedieval.Domain\TotalMedieval.Domain.csproj", "{C2F86824-32B0-4941-9A8E-5473879FE41A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TotalMedieval.Api", "src\TotalMedieval.Api\TotalMedieval.Api.csproj", "{24E37D3F-7C5A-43DF-AF55-85B84FFD9C42}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -38,6 +42,14 @@ Global
 		{F2E087D6-6C6B-4843-9AE2-6D54C6B436E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2E087D6-6C6B-4843-9AE2-6D54C6B436E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2E087D6-6C6B-4843-9AE2-6D54C6B436E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2F86824-32B0-4941-9A8E-5473879FE41A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2F86824-32B0-4941-9A8E-5473879FE41A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2F86824-32B0-4941-9A8E-5473879FE41A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2F86824-32B0-4941-9A8E-5473879FE41A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24E37D3F-7C5A-43DF-AF55-85B84FFD9C42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24E37D3F-7C5A-43DF-AF55-85B84FFD9C42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24E37D3F-7C5A-43DF-AF55-85B84FFD9C42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24E37D3F-7C5A-43DF-AF55-85B84FFD9C42}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
