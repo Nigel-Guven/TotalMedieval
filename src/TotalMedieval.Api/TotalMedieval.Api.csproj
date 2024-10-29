@@ -11,6 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\TotalMedieval.Application\TotalMedieval.Application.csproj" />
     <ProjectReference Include="..\TotalMedieval.Domain\TotalMedieval.Domain.csproj" />
   </ItemGroup>
 

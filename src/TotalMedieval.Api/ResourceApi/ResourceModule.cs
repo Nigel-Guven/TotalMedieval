@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using TotalMedieval.Application.Resources;
 using TotalMedieval.Domain.Resources;
 
 namespace TotalMedieval.Api.ResourceApi
@@ -7,26 +8,22 @@ namespace TotalMedieval.Api.ResourceApi
     [Route(TotalMedievalApiEndpoints.ResourceApiEndpoint)]
     public class ResourceModule : ControllerBase
     {
-        // This is a placeholder for your in-memory data store
-        private static List<ProvinceResource> _provinceDataList = new();
+        IResourceService _resourceService;
 
-        // POST: api/province/add_resource
+        public ResourceModule(IResourceService resourceService)
+        { 
+            _resourceService = resourceService; 
+        } 
+
         [HttpPost("add_resource")]
-        public IActionResult AddProvinceData([FromBody] ProvinceResource request)
+        public IActionResult AddProvinceData([FromBody] ProvinceResourceCommand request)
         {
             if (request == null || string.IsNullOrEmpty(request.ProvinceName))
             {
                 return BadRequest("Invalid request data.");
             }
 
-            var newProvinceData = new ProvinceResource
-            {
-                ProvinceName = request.ProvinceName,
-                XCoordinate = request.XCoordinate,
-                YCoordinate = request.YCoordinate
-            };
-
-            _provinceDataList.Add(newProvinceData);
+            _resourceService.AddProvinceResource(request);
 
             return Ok(new { message = "Province data added successfully." });
         }

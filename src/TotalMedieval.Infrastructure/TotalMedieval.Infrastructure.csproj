@@ -7,8 +7,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\TotalMedieval.Domain\TotalMedieval.Domain.csproj" />
-    <ProjectReference Include="..\TotalMedieval.Infrastructure\TotalMedieval.Infrastructure.csproj" />
+    <PackageReference Include="Dapper" Version="2.1.35" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
   </ItemGroup>
 
 </Project>
