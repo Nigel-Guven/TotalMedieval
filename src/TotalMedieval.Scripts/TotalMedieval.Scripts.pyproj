@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>d01d8429-8360-41c5-9f4d-4353f4756dd1</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>scripts\province_resource_collector.py</StartupFile>
+    <StartupFile>scripts\get_all_resources.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,14 +21,16 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="scripts\province_resource_collector.py" />
+    <Compile Include="scripts\get_resources_by_province.py" />
+    <Compile Include="scripts\get_all_resources.py" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="scripts\" />
     <Folder Include="resources\" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="resources\current_configuration.txt" />
+    <Content Include="resources\current_province_configuration.txt" />
+    <Content Include="resources\current_resource_configuration.txt" />
     <Content Include="resources\map_provinces.txt" />
     <Content Include="resources\map_resources.txt" />
   </ItemGroup>

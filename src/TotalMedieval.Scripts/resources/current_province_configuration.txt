@@ -1,0 +1,883 @@
+Tenochtitlan_Province:
+  - timber
+  - gold
+  - gold
+  - tobacco
+  - chocolate
+
+Roman_Province:
+  - wool
+  - cotton
+
+Constantinople_Province:
+  - silk
+  - grain
+  - dyes
+
+Frankfurt_Province:
+  - wool
+  - coal
+
+Cordoba_Province:
+  - silver
+  - sugar
+
+Iconium_Province:
+  - sulfur
+  - iron
+  - wool
+
+London_Province:
+  - wool
+  - dyes
+  - tin
+
+Paris_Province:
+  - wine
+  - timber
+  - iron
+
+Cairo_Province:
+  - cotton
+  - sugar
+
+Sarkel_Province:
+  - silver
+  - timber
+  - slaves
+
+Kiev_Province:
+  - furs
+  - silver
+  - timber
+  - slaves
+
+Budapest_Province:
+  - wine
+  - timber
+  - iron
+
+Krakow_Province:
+  - furs
+  - silver
+  - sulfur
+  - slaves
+
+Arhus_Province:
+  - fish
+  - amber
+
+Lisbon_Province:
+  - marble
+  - tin
+
+Toledo_Province:
+  - iron
+  - wool
+
+Naples_Province:
+  - wool
+  - grain
+  - dyes
+
+Venice_Province:
+  - timber
+  - silk
+  - grain
+  - dyes
+
+Milan_Province:
+  - textiles
+  - grain
+
+Edinburgh_Province:
+  - furs
+  - timber
+  - iron
+
+Oslo_Province:
+  - furs
+  - fish
+  - timber
+  - iron
+  - amber
+
+Jerusalem_Province:
+  - wool
+  - sugar
+
+Antioch_Province:
+  - cotton
+  - sugar
+
+Vilnius_Province:
+  - furs
+  - timber
+  - slaves
+
+Marienburg_Province:
+  - timber
+  - iron
+
+Novgorod_Province:
+  - furs
+  - timber
+  - amber
+
+Cork_Province:
+  - timber
+  - iron
+
+Caernarvon_Province:
+  - wool
+  - coal
+
+Murom_Province:
+  - iron
+  - grain
+
+Tingvalla_Province:
+  - furs
+  - timber
+
+Tver_Province:
+  - furs
+  - iron
+  - amber
+
+Oran_Province:
+  - slaves
+  - sugar
+
+Malta_Province:
+  - fish
+
+Badajoz_Province:
+  - timber
+  - wool
+
+North_America:
+  - gold
+  - coal
+  - tobacco
+
+Malatya_Province:
+  - silk
+  - iron
+
+Huaxtepec_Province:
+  - silver
+  - tobacco
+
+Lancaster_Province:
+  - timber
+  - coal
+
+Castle_Town_Province:
+  - furs
+  - fish
+
+Wick_Province:
+  - fish
+  - wool
+
+Skara_Province:
+  - timber
+  - amber
+
+Agder_Province:
+  - fish
+  - amber
+
+Hrodna_Province:
+  - furs
+  - timber
+  - slaves
+
+Pskov_Province:
+  - furs
+  - timber
+
+Arensburg_Province:
+  - furs
+  - fish
+
+Poznan_Province:
+  - timber
+  - amber
+
+Palanga_Province:
+  - timber
+  - slaves
+
+Santiago_Province:
+  - timber
+  - coal
+
+Utrecht_Province:
+  - textiles
+  - dyes
+
+Galway_Province:
+  - furs
+  - timber
+
+Cardiff_Province:
+  - timber
+  - coal
+
+Visby_Province:
+  - silver
+  - timber
+  - amber
+
+Ancona_Province:
+  - marble
+  - timber
+
+Krak_de_Chevaliers_Province:
+  - sugar
+
+Valladolid_Province:
+  - timber
+  - iron
+
+Exeter_Province:
+  - wool
+  - dyes
+  - tin
+
+Gloucester_Province:
+  - dyes
+  - tin
+
+Clermont_Province:
+  - iron
+  - dyes
+
+Reval_Province:
+  - fish
+  - timber
+
+Lund_Province:
+  - timber
+  - amber
+
+Kerak_Province:
+  - silk
+  - wool
+
+Konigsberg_Province:
+  - timber
+  - amber
+
+Danzig_Province:
+  - furs
+  - amber
+
+Inverness_Province:
+  - timber
+  - wool
+
+Aberdeen_Province:
+  - fish
+  - iron
+
+Dumfries_Province:
+  - fish
+  - timber
+
+Stockholm_Province:
+  - furs
+  - fish
+  - timber
+  - iron
+  - amber
+
+Kalmar_Province:
+  - furs
+  - fish
+  - timber
+  - iron
+  - amber
+
+Helsinki_Province:
+  - furs
+  - fish
+  - silver
+  - timber
+
+Moscow_Province:
+  - furs
+  - timber
+  - grain
+
+Belo-Ozero_Province:
+  - furs
+  - timber
+
+Volga-Bulgar_Province:
+  - silver
+  - timber
+  - slaves
+
+Viatka_Province:
+  - furs
+  - timber
+  - slaves
+
+Riga_Province:
+  - furs
+  - timber
+  - amber
+
+Smolensk_Province:
+  - furs
+  - timber
+
+Dublin_Province:
+  - furs
+  - silver
+
+Wexford_Province:
+  - furs
+  - timber
+
+Donegal_Province:
+  - furs
+  - timber
+  - iron
+
+York_Province:
+  - wool
+  - coal
+
+Cuba:
+  - silver
+  - timber
+
+Ryazan_Province:
+  - timber
+  - iron
+
+Nottingham_Province:
+  - wool
+  - dyes
+
+Stettin_Province:
+  - furs
+  - timber
+
+Hamburg_Province:
+  - furs
+  - silver
+  - timber
+
+Roskilde_Province:
+  - fish
+  - iron
+  - amber
+
+Tollan_Province:
+  - dyes
+  - gold
+  - tobacco
+
+Azov_Province:
+  - silver
+  - timber
+  - slaves
+
+Atil_Province:
+  - furs
+  - timber
+  - slaves
+
+Samandar_Province:
+  - furs
+  - timber
+  - slaves
+
+Antwerp_Province:
+  - textiles
+  - dyes
+
+Magdeburg_Province:
+  - timber
+  - wool
+
+Halych_Province:
+  - furs
+  - timber
+  - slaves
+
+Peremyshl_Province:
+  - furs
+  - timber
+
+Tzernigov_Province:
+  - furs
+  - timber
+  - sulfur
+  - slaves
+
+Kozelsk_Province:
+  - furs
+  - timber
+  - sulfur
+  - slaves
+
+Turov_Province:
+  - furs
+  - sulfur
+  - slaves
+
+Minsk_Province:
+  - timber
+  - sulfur
+  - slaves
+
+Bruges_Province:
+  - textiles
+  - dyes
+
+Metz_Province:
+  - timber
+  - iron
+
+Caen_Province:
+  - timber
+  - dyes
+
+Prague_Province:
+  - timber
+  - coal
+  - tin
+
+Rheims_Province:
+  - iron
+  - coal
+
+Rennes_Province:
+  - fish
+  - wine
+
+Nuremburg_Province:
+  - wine
+  - timber
+  - iron
+  - tin
+
+Hohenstauffen_Province:
+  - furs
+  - wine
+  - timber
+
+Iasi_Province:
+  - wine
+  - timber
+  - iron
+
+Tixtla_Province:
+  - gold
+  - tobacco
+  - chocolate
+
+Angers_Province:
+  - wine
+  - timber
+  - iron
+
+Bran_Province:
+  - wine
+  - timber
+  - iron
+
+Tmutarakan_Province:
+  - furs
+
+Cherson_Province:
+  - silver
+  - timber
+  - slaves
+
+Vienna_Province:
+  - silver
+  - timber
+  - iron
+
+Dijon_Province:
+  - wine
+  - iron
+  - coal
+
+Bern_Province:
+  - furs
+  - timber
+
+Innsbruck_Province:
+  - furs
+  - timber
+
+Bordeaux_Province:
+  - wine
+  - dyes
+
+Tbilisi_Province:
+  - furs
+  - timber
+  - slaves
+
+Kutais_Province:
+  - furs
+  - timber
+  - slaves
+
+Bucharest_Province:
+  - wine
+  - iron
+
+Turin_Province:
+  - furs
+  - tin
+
+Toulouse_Province:
+  - iron
+  - dyes
+
+Barcelona_Province:
+  - silver
+  - dyes
+
+Leon_Province:
+  - wool
+  - coal
+
+Zagreb_Province:
+  - timber
+  - iron
+
+Belgrade_Province:
+  - timber
+  - iron
+
+Sofia_Province:
+  - furs
+  - timber
+
+Preslav_Province:
+  - wine
+  - iron
+
+Ragusa_Province:
+  - wine
+  - timber
+  - iron
+
+Zara_Province:
+  - wine
+  - timber
+  - iron
+
+Bologna_Province:
+  - marble
+  - cotton
+
+Pamplona_Province:
+  - marble
+  - wool
+
+Genoa_Province:
+  - marble
+  - textiles
+
+Florence_Province:
+  - marble
+  - cotton
+  - dyes
+
+Trebizond_Province:
+  - silver
+  - sulfur
+
+Sinope_Province:
+  - silver
+  - silver
+  - sulfur
+
+Marseille_Province:
+  - wine
+  - dyes
+
+Yerevan_Province:
+  - silk
+  - iron
+
+Tabriz_Province:
+  - silk
+  - iron
+
+Zaragoza_Province:
+  - iron
+  - grain
+  - dyes
+
+Oporto_Province:
+  - marble
+  - timber
+
+Thessalonica_Province:
+  - marble
+  - timber
+  - sulfur
+
+Ajaccio_Province:
+  - wine
+  - textiles
+
+Nicaea_Province:
+  - silk
+  - grain
+  - dyes
+
+Athens_Province:
+  - wine
+  - marble
+  - grain
+  - dyes
+
+Adrianople_Province:
+  - wine
+  - grain
+  - dyes
+
+Abydus_Province:
+  - wine
+
+Bari_Province:
+  - marble
+  - wool
+  - dyes
+
+Syracuse_Province:
+  - sulfur
+  - wool
+
+Caesarea_Province:
+  - timber
+  - silk
+  - iron
+
+Ankara_Province:
+  - timber
+  - silk
+  - iron
+
+Baghdad_Province:
+  - sulfur
+  - silk
+
+Sevilla_Province:
+  - silver
+  - sugar
+
+Durazzo_Province:
+  - marble
+  - timber
+  - grain
+  - dyes
+
+Kerkyra_Province:
+  - fish
+  - silver
+  - wine
+
+Valencia_Province:
+  - silver
+  - wine
+  - timber
+
+Mallorca_Province:
+  - silver
+  - wine
+  - timber
+
+Adana_Province:
+  - sulfur
+  - wool
+
+Attalia_Province:
+  - sulfur
+  - wool
+
+Mosul_Province:
+  - silk
+  - cotton
+
+Cagliari_Province:
+  - fish
+  - silver
+
+Edessa_Province:
+  - silver
+  - silk
+
+Smyrna_Province:
+  - wine
+  - timber
+  - iron
+
+Granada_Province:
+  - cotton
+  - sugar
+
+Brazil:
+  - gold
+  - tobacco
+  - chocolate
+
+Aleppo_Province:
+  - silver
+  - silk
+
+Ayla_Province:
+  - silk
+  - iron
+
+Al_Suways_Province:
+  - fish
+  - iron
+
+Mekka_Province:
+  - marble
+  - silk
+  - iron
+
+Medina_Province:
+  - slaves
+  - silk
+
+Buraidah_Province:
+  - slaves
+  - silk
+  - iron
+
+Palermo_Province:
+  - sulfur
+  - cotton
+  - grain
+
+Corinth_Province:
+  - silver
+  - marble
+
+Marrakesh_Province:
+  - iron
+  - cotton
+  - sugar
+
+Fez_Province:
+  - sulfur
+  - iron
+  - wool
+
+Sijilmasa_Province:
+  - iron
+  - cotton
+  - sugar
+
+Isle_of_Cyprus:
+  - silver
+  - wine
+
+Isle_of_Cyprus2:
+  - silver
+  - silk
+  - sugar
+
+Damascus_Province:
+  - cotton
+  - sugar
+
+Algiers_Province:
+  - iron
+  - cotton
+  - sugar
+
+Tunis_Province:
+  - iron
+  - cotton
+  - sugar
+
+Acre_Province:
+  - silver
+  - silk
+
+Isle_of_Rhodes:
+  - silver
+  - wine
+  - marble
+
+Isle_of_Crete:
+  - silver
+  - silk
+  - cotton
+
+Tyre_Province:
+  - fish
+  - silk
+
+Ascalon_Province:
+  - silk
+  - iron
+
+Tripoli_Province:
+  - slaves
+  - cotton
+  - sugar
+
+Al-Mahdiya_Province:
+  - slaves
+  - cotton
+  - sugar
+
+Al-Mansurya_Province:
+  - slaves
+  - cotton
+  - sugar
+
+Barqa_Province:
+  - timber
+  - slaves
+  - cotton
+  - sugar
+  - gold
+
+Alexandria_Province:
+  - silver
+  - cotton
+  - sugar
+
+Dumyat_Province:
+  - cotton
+  - sugar
+
+Arguin_Province:
+  - slaves
+  - ivory
+  - gold
+
+Timbuktu_Province:
+  - slaves
+  - ivory
+  - gold
+
+Thebes_Province:
+  - timber
+  - cotton
+  - sugar
+
+Dongola_Province:
+  - slaves
+  - ivory
+

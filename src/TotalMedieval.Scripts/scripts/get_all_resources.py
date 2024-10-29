@@ -36,7 +36,7 @@ def count_resources_per_province(resources, province_list_file):
 def main():
     resources_file = 'resources\\map_resources.txt'
     province_list_file = 'resources\\map_provinces.txt'
-    processed_configuration_file = 'resources\\current_configuration.txt'
+    processed_configuration_file = 'resources\\current_resource_configuration.txt'
 
     # Read resources from x.txt
     resources = read_resources(resources_file)
