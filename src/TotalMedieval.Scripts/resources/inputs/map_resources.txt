@@ -1,968 +1,981 @@
-; ## Resources 
-
 ;Tenochtitlan_Province
-resource	timber 	  	 
-resource	gold 	  	 
-resource	gold 	  	 
-resource	tobacco 	  	 
-resource	chocolate 	  	 
+resource	timber		
+resource	gold		
+resource	gold		
+resource	tobacco		
+resource	chocolate		
 
 ;Roman_Province
-resource	wool 	  	 
-resource	cotton 	  	 
-resource	wine 	  	 
+resource	wool		
+resource	cotton		
+resource	wine		
 
 ;Constantinople_Province
-resource	silk 	  	 
-resource	grain 	  	 
-resource	dyes 	  	 
-resource	wine 	  	 
+resource	silk		
+resource	grain		
+resource	dyes		
+resource	wine		
 
 ;Frankfurt_Province
-resource	wool 	  	 
-resource	coal 	  	 
+resource	wool		
+resource	coal		
 
 ;Cordoba_Province
-resource	silver 	  	 
-resource	sugar 	  	 
+resource	silver		
+resource	sugar		
 
 ;Iconium_Province
-resource	sulfur 	  	 
-resource	iron 	  	 
-resource	wool 	  	 
+resource	sulfur		
+resource	iron		
+resource	wool		
 
 ;London_Province
-resource	wool 	  	 
-resource	dyes 	  	 
-resource	tin 	  	 
+resource	wool		
+resource	dyes		
+resource	tin		
 
 ;Paris_Province
-resource	wine 	  	 
-resource	timber 	  	 
-resource	iron 	  	 
+resource	wine		
+resource	timber		
+resource	iron		
 
 ;Cairo_Province
-resource	cotton 	  	 
-resource	sugar 	  	 
-resource	silk 	  	 
+resource	cotton		
+resource	sugar		
+resource	silk		
 
 ;Sarkel_Province
-resource	silver 	  	 
-resource	timber 	  	 
-resource	slaves 	  	 
+resource	silver		
+resource	timber		
+resource	slaves		
 
 ;Kiev_Province
-resource	furs 	  	 
-resource	silver 	  	 
-resource	timber 	  	 
-resource	slaves 	  	 
+resource	furs		
+resource	silver		
+resource	timber		
+resource	slaves		
 
 ;Budapest_Province
-resource	wine 	  	 
-resource	timber 	  	 
-resource	iron 	  	 
+resource	wine		
+resource	timber		
+resource	iron		
 
 ;Krakow_Province
-resource	furs 	  	 
-resource	silver 	  	 
-resource	sulfur 	  	 
-resource	slaves 	  	 
+resource	furs		
+resource	silver		
+resource	sulfur		
+resource	slaves		
 
 ;Arhus_Province
-resource	fish 	  	 
-resource	amber 	  	 
+resource	fish		
+resource	amber		
 
 ;Lisbon_Province
-resource	marble 	  	 
-resource	tin 	  	 
-resource	wine 	  		 
+resource	marble		
+resource	tin		
+resource	wine			
 
 ;Toledo_Province
-resource	iron 	  	 
-resource	wool 	  	 
+resource	iron		
+resource	wool		
 
 ;Naples_Province
-resource	wool 	  	 
-resource	grain 	  	 
-resource	dyes 	  	 
+resource	wool		
+resource	grain		
+resource	dyes		
 
 ;Venice_Province
-resource	timber 	  	 
-resource	silk 	  	 
-resource	grain 	  	 
-resource	dyes 	  	 
+resource	timber		
+resource	silk		
+resource	grain		
+resource	dyes		
 
 ;Milan_Province
-resource	textiles 	  	 
-resource	grain 	  	 
+resource	textiles		
+resource	grain		
 
 ;Edinburgh_Province
-resource	furs 	  	 
-resource	timber 	  	 
-resource	iron 	  	 
+resource	furs		
+resource	timber		
+resource	iron		
 
 ;Oslo_Province
-resource	furs 	  	 
-resource	fish 	  	 
-resource	timber 	  	 
-resource	iron 	  	 
-resource	amber 	  	 
+resource	furs		
+resource	fish		
+resource	timber		
+resource	iron		
+resource	amber		
 
 ;Jerusalem_Province
-resource	wool 	  	 
-resource	sugar 	  	 
-resource	silver 	  	 
+resource	wool		
+resource	sugar		
+resource	silver		
 
 ;Antioch_Province
-resource	cotton 	  	 
-resource	sugar 	  	 
-resource	iron 	  	 
+resource	cotton		
+resource	sugar		
+resource	iron		
 
 ;Vilnius_Province
-resource	furs 	  	 
-resource	timber 	  	 
-resource	slaves 	  	 
+resource	furs		
+resource	timber		
+resource	slaves		
 
 ;Marienburg_Province
-resource	timber 	  	 
-resource	iron 	  	 
+resource	timber		
+resource	iron		
 
 ;Novgorod_Province
-resource	furs 	  	 
-resource	timber 	  	 
-resource	amber 	  	 
-resource	furs 	  	 
+resource	furs		
+resource	timber		
+resource	amber		
+resource	furs		
 
 ;Cork_Province
-resource	timber 	  	 
-resource	iron 	  	 
+resource	timber		
+resource	iron		
+resource	dogs		
 
 ;Caernarvon_Province
-resource	wool 	  	 
-resource	coal 	  	 
-resource	textiles 	  	 
+resource	wool		
+resource	coal		
+resource	textiles		
 
 ;Murom_Province
-resource	iron 	  	 
-resource	grain 	  	 
+resource	iron		
+resource	grain		
 
 ;Tingvalla_Province
-resource	furs 	  	 
-resource	timber 	  	 
+resource	furs		
+resource	timber		
 
 ;Tver_Province
-resource	furs 	  	 
-resource	iron 	  	 
-resource	amber 	  	 
+resource	furs		
+resource	iron		
+resource	amber		
 
 ;Oran_Province
-resource	slaves 	  	 
-resource	sugar 	  	 
+resource	slaves		
+resource	sugar		
 
 ;Malta_Province
-resource	fish 	  	 
-resource	wine 	  	 
+resource	fish		
+resource	wine		
 
 ;Badajoz_Province
-resource	timber 	  	 
-resource	wool 	  	 
+resource	timber		
+resource	wool		
 
 ;North_America
-resource	gold 	  	 
-resource	coal 	  	 
-resource	tobacco 	  	 
+resource	gold		
+resource	coal		
+resource	tobacco		
 
 ;Malatya_Province
-resource	silk 	  	 
-resource	iron 	  	 
+resource	silk		
+resource	iron		
 
 ;Huaxtepec_Province
-resource	silver 	  	 
-resource	tobacco 	  	 
+resource	silver		
+resource	tobacco		
 
 ;Lancaster_Province
-resource	timber 	  	 
-resource	coal 	  	 
+resource	timber		
+resource	coal		
 
 ;Castle_Town_Province
-resource	furs 	  	 
-resource	fish 	  	 
+resource	furs		
+resource	fish		
 
 ;Wick_Province
-resource	fish 	  	 
-resource	wool 	  	 
+resource	fish		
+resource	wool		
+resource	dogs		
 
 ;Skara_Province
-resource	timber 	  	 
-resource	amber 	  	 
+resource	timber		
+resource	amber		
 
 ;Agder_Province
-resource	fish 	  	 
-resource	amber 	  	 
+resource	fish		
+resource	amber		
 
 ;Hrodna_Province
-resource	furs 	  	 
-resource	timber 	  	 
-resource	slaves 	  	 
+resource	furs		
+resource	timber		
+resource	slaves		
 
 ;Pskov_Province
-resource	furs 	  	 
-resource	timber 	  	 
-resource	amber 	  	 
+resource	furs		
+resource	timber		
+resource	amber		
 
 ;Arensburg_Province
-resource	furs 	  	 
-resource	fish 	  	 
-resource	amber 	  	 
+resource	furs		
+resource	fish		
+resource	amber		
 
 ;Poznan_Province
-resource	timber 	  	 
-resource	amber 	  	 
+resource	timber		
+resource	amber		
 
 ;Palanga_Province
-resource	timber 	  	 
-resource	slaves 	  	 
-resource	amber 	  	 
+resource	timber		
+resource	slaves		
+resource	amber		
 
 ;Santiago_Province
-resource	timber 	  	 
-resource	coal 	  	 
+resource	timber		
+resource	coal		
 
 ;Utrecht_Province
-resource	textiles 	  	 
-resource	dyes 	  	 
+resource	textiles		
+resource	dyes		
 
 ;Galway_Province
-resource	furs 	  	 
-resource	timber 	  	 
+resource	furs		
+resource	timber		
 
 ;Cardiff_Province
-resource	timber 	  	 
-resource	coal 	  	 
-resource	grain 	  	 
-resource	tin 	  	 
+resource	timber		
+resource	coal		
+resource	grain		
+resource	tin		
 
 ;Visby_Province
-resource	silver 	  	 
-resource	timber 	  	 
-resource	amber 	  	 
+resource	silver		
+resource	timber		
+resource	amber		
 
 ;Ancona_Province
-resource	marble 	  	 
-resource	timber 	  	 
-resource	sugar 	  	 
+resource	marble		
+resource	timber		
+resource	sugar		
 
 ;Krak_de_Chevaliers_Province
-resource	sugar 	  	 
-resource	spices 	  	 
-resource	camels 	  	 
+resource	sugar		
+resource	spices		
+resource	camels		
+resource	dyes		
 
 ;Valladolid_Province
-resource	timber 	  	 
-resource	iron 	  	 
-resource	fish 	  	 
+resource	timber		
+resource	iron		
+resource	fish		
 
 ;Exeter_Province
-resource	wool 	  	 
-resource	dyes 	  	 
-resource	tin 	  	 
+resource	wool		
+resource	dyes		
+resource	tin		
 
 ;Gloucester_Province
-resource	dyes 	  	 
-resource	tin 	  	 
+resource	dyes		
+resource	tin		
 
 ;Clermont_Province
-resource	iron 	  	 
-resource	dyes 	  	 
-resource	wine 	  	 
+resource	iron		
+resource	dyes		
+resource	wine		
 
 ;Reval_Province
-resource	fish 	  	 
-resource	timber 	  	 
-resource	amber 	  	 
+resource	fish		
+resource	timber		
+resource	amber		
 
 ;Lund_Province
-resource	timber 	  	 
-resource	amber 	  	 
-resource	timber 	  	 
+resource	timber		
+resource	amber		
+resource	timber		
 
 ;Kerak_Province
-resource	silk 	  	 
-resource	wool 	  	 
-resource	camels 	  	 
+resource	silk		
+resource	wool		
+resource	camels		
 
 ;Konigsberg_Province
-resource	timber 	  	 
-resource	amber 	  	 
+resource	timber		
+resource	amber		
 
 ;Danzig_Province
-resource	furs 	  	 
-resource	amber 	  	 
+resource	furs		
+resource	amber		
 
 ;Inverness_Province
-resource	timber 	  	 
-resource	wool 	  	 
+resource	timber		
+resource	wool		
+resource	coal		
 
 ;Aberdeen_Province
-resource	fish 	  	 
-resource	iron 	  	 
+resource	fish		
+resource	iron		
 
 ;Dumfries_Province
-resource	fish 	  	 
-resource	timber 	  	 
+resource	fish		
+resource	timber		
+resource	textiles		
 
 ;Stockholm_Province
-resource	furs 	  	 
-resource	fish 	  	 
-resource	timber 	  	 
-resource	iron 	  	 
-resource	amber 	  	 
+resource	furs		
+resource	fish		
+resource	timber		
+resource	iron		
+resource	amber		
 
 ;Kalmar_Province
-resource	furs 	  	 
-resource	fish 	  	 
-resource	timber 	  	 
-resource	iron 	  	 
-resource	amber 	  	 
+resource	furs		
+resource	fish		
+resource	timber		
+resource	iron		
+resource	amber		
 
 ;Helsinki_Province
-resource	furs 	  	 
-resource	fish 	  	 
-resource	silver 	  	 
-resource	timber 	  	 
+resource	furs		
+resource	fish		
+resource	silver		
+resource	timber		
 
 ;Moscow_Province
-resource	furs 	  	 
-resource	timber 	  	 
-resource	grain 	  	 
+resource	furs		
+resource	timber		
+resource	grain		
 
 ;Belo-Ozero_Province
-resource	furs 	  	 
-resource	timber 	  	 
-resource	dogs 	  	 
+resource	furs		
+resource	timber		
+resource	dogs		
 
 ;Volga-Bulgar_Province
-resource	silver 	  	 
-resource	timber 	  	 
-resource	slaves 	  	 
+resource	silver		
+resource	timber		
+resource	slaves		
 
 ;Viatka_Province
-resource	furs 	  	 
-resource	timber 	  	 
-resource	slaves 	  	 
-resource	fish 	  	 
+resource	furs		
+resource	timber		
+resource	slaves		
+resource	fish		
 
 ;Riga_Province
-resource	furs 	  	 
-resource	timber 	  	 
-resource	amber 	  	 
-resource	amber 	  	 
+resource	furs		
+resource	timber		
+resource	amber		
+resource	amber		
 
 ;Smolensk_Province
-resource	furs 	  	 
-resource	timber 	  	 
+resource	furs		
+resource	timber		
 
 ;Dublin_Province
-resource	furs 	  	 
-resource	silver 	  	 
-resource	slaves 	  	 
+resource	furs		
+resource	silver		
+resource	slaves		
+resource	gold		
 
 ;Wexford_Province
-resource	furs 	  	 
-resource	timber 	  	 
-resource	silver 	  	 
+resource	furs		
+resource	timber		
+resource	silver		
 
 ;Donegal_Province
-resource	furs 	  	 
-resource	timber 	  	 
-resource	iron 	  	 
+resource	furs		
+resource	timber		
+resource	iron		
 
 ;York_Province
-resource	wool 	  	 
-resource	coal 	  	 
+resource	wool		
+resource	coal		
 
 ;Cuba
-resource	silver 	  	 
-resource	timber 	  	 
-resource	gold 	  	 
-resource	tobacco 	  	 
+resource	silver		
+resource	timber		
+resource	gold		
+resource	tobacco		
 
 ;Ryazan_Province
-resource	timber 	  	 
-resource	iron 	  	 
+resource	timber		
+resource	iron		
 
 ;Nottingham_Province
-resource	wool 	  	 
-resource	dyes 	  	 
+resource	wool		
+resource	dyes		
 
 ;Stettin_Province
-resource	furs 	  	 
-resource	timber 	  	 
-resource	amber 	  	 
+resource	furs		
+resource	timber		
+resource	amber		
 
 ;Hamburg_Province
-resource	furs 	  	 
-resource	silver 	  	 
-resource	timber 	  	 
+resource	furs		
+resource	silver		
+resource	timber		
 
 ;Roskilde_Province
-resource	fish 	  	 
-resource	iron 	  	 
-resource	amber 	  	 
+resource	fish		
+resource	iron		
+resource	amber		
 
 ;Tollan_Province
-resource	dyes 	  	 
-resource	gold 	  	 
-resource	tobacco 	  	 
+resource	dyes		
+resource	gold		
+resource	tobacco		
 
 ;Azov_Province
-resource	silver 	  	 
-resource	timber 	  	 
-resource	slaves 	  	 
+resource	silver		
+resource	timber		
+resource	slaves		
 
 ;Atil_Province
-resource	furs 	  	 
-resource	timber 	  	 
-resource	slaves 	  	 
-resource	fish 	  	 
+resource	furs		
+resource	timber		
+resource	slaves		
+resource	fish		
 
 ;Samandar_Province
-resource	furs 	  	 
-resource	timber 	  	 
-resource	slaves 	  	 
-resource	cotton 	  	 
+resource	furs		
+resource	timber		
+resource	slaves		
+resource	cotton		
 
 ;Antwerp_Province
-resource	textiles 	  	 
-resource	dyes 	  	 
+resource	textiles		
+resource	dyes		
 
 ;Magdeburg_Province
-resource	timber 	  	 
-resource	wool 	  	 
+resource	timber		
+resource	wool		
 
 ;Halych_Province
-resource	furs 	  	 
-resource	timber 	  	 
-resource	slaves 	  	 
+resource	furs		
+resource	timber		
+resource	slaves		
 
 ;Peremyshl_Province
-resource	furs 	  	 
-resource	timber 	  	 
+resource	furs		
+resource	timber		
 
 ;Tzernigov_Province
-resource	furs 	  	 
-resource	timber 	  	 
-resource	sulfur 	  	 
-resource	slaves 	  	 
+resource	furs		
+resource	timber		
+resource	sulfur		
+resource	slaves		
 
 ;Kozelsk_Province
-resource	furs 	  	 
-resource	timber 	  	 
-resource	sulfur 	  	 
-resource	slaves 	  	 
+resource	furs		
+resource	timber		
+resource	sulfur		
+resource	slaves		
 
 ;Turov_Province
-resource	furs 	  	 
-resource	sulfur 	  	 
-resource	slaves 	  	 
+resource	furs		
+resource	sulfur		
+resource	slaves		
 
 ;Minsk_Province
-resource	timber 	  	 
-resource	sulfur 	  	 
-resource	slaves 	  	 
+resource	timber		
+resource	sulfur		
+resource	slaves		
 
 ;Bruges_Province
-resource	textiles 	  	 
-resource	dyes 	  	 
-resource	wool 	  	 
+resource	textiles		
+resource	dyes		
+resource	wool		
 
 ;Metz_Province
-resource	timber 	  	 
-resource	iron 	  	 
+resource	timber		
+resource	iron		
 
 ;Caen_Province
-resource	timber 	  	 
-resource	dyes 	  	 
+resource	timber		
+resource	dyes		
 
 ;Prague_Province
-resource	timber 	  	 
-resource	coal 	  	 
-resource	tin 	  	 
-resource	iron 	  	 
+resource	timber		
+resource	coal		
+resource	tin		
+resource	iron		
 
 ;Rheims_Province
-resource	iron 	  	 
-resource	coal 	  	 
-resource	wine 	  	 
+resource	iron		
+resource	coal		
+resource	wine		
 
 ;Rennes_Province
-resource	fish 	  	 
-resource	wine 	  	 
+resource	fish		
+resource	wine		
 
 ;Nuremburg_Province
-resource	wine 	  	 
-resource	timber 	  	 
-resource	iron 	  	 
-resource	tin 	  	 
+resource	wine		
+resource	timber		
+resource	iron		
+resource	tin		
 
 ;Hohenstauffen_Province
-resource	furs 	  	 
-resource	wine 	  	 
-resource	timber 	  	 
+resource	furs		
+resource	wine		
+resource	timber		
 
 ;Iasi_Province
-resource	wine 	  	 
-resource	timber 	  	 
-resource	iron 	  	 
-resource	timber 	  	 
+resource	wine		
+resource	timber		
+resource	iron		
+resource	timber		
 
 ;Tixtla_Province
-resource	gold 	  	 
-resource	tobacco 	  	 
-resource	chocolate 	  	 
+resource	gold		
+resource	tobacco		
+resource	chocolate		
 
 ;Angers_Province
-resource	wine 	  	 
-resource	timber 	  	 
-resource	iron 	  	 
+resource	wine		
+resource	timber		
+resource	iron		
 
 ;Bran_Province
-resource	wine 	  	 
-resource	timber 	  	 
-resource	iron 	  	 
+resource	wine		
+resource	timber		
+resource	iron		
 
 ;Tmutarakan_Province
-resource	furs 	  	 
-resource	fish 	  	 
-resource	slaves 	  	 
+resource	furs		
+resource	fish		
+resource	slaves		
 
 ;Cherson_Province
-resource	silver 	  	 
-resource	timber 	  	 
-resource	slaves 	  	 
+resource	silver		
+resource	timber		
+resource	slaves		
 
 ;Vienna_Province
-resource	silver 	  	 
-resource	timber 	  	 
-resource	iron 	  	 
+resource	silver		
+resource	timber		
+resource	iron		
 
 ;Dijon_Province
-resource	wine 	  	 
-resource	iron 	  	 
-resource	coal 	  	 
+resource	wine		
+resource	iron		
+resource	coal		
 
 ;Bern_Province
-resource	furs 	  	 
-resource	timber 	  	 
+resource	furs		
+resource	timber		
 
 ;Innsbruck_Province
-resource	furs 	  	 
-resource	timber 	  	 
+resource	furs		
+resource	timber		
 
 ;Bordeaux_Province
-resource	wine 	  	 
-resource	dyes 	  	 
+resource	wine		
+resource	dyes		
 
 ;Tbilisi_Province
-resource	furs 	  	 
-resource	timber 	  	 
-resource	slaves 	  	 
-resource	sugar 	  	 
+resource	furs		
+resource	timber		
+resource	slaves		
+resource	sugar		
+resource	spices		
 
 ;Kutais_Province
-resource	furs 	  	 
-resource	timber 	  	 
-resource	slaves 	  	 
-resource	wine 	  	 
+resource	furs		
+resource	timber		
+resource	slaves		
+resource	wine		
 
 ;Bucharest_Province
-resource	wine 	  	 
-resource	iron 	  	 
-resource	fish 	  	 
+resource	wine		
+resource	iron		
+resource	fish		
 
 ;Turin_Province
-resource	furs 	  	 
-resource	tin 	  	 
+resource	furs		
+resource	tin		
 
 ;Toulouse_Province
-resource	iron 	  	 
-resource	dyes 	  	 
+resource	iron		
+resource	dyes		
 
 ;Barcelona_Province
-resource	silver 	  	 
-resource	dyes 	  	 
-resource	sugar 	  	 
+resource	silver		
+resource	dyes		
+resource	sugar		
 
 ;Leon_Province
-resource	wool 	  	 
-resource	coal 	  	 
+resource	wool		
+resource	coal		
 
 ;Zagreb_Province
-resource	timber 	  	 
-resource	iron 	  	 
+resource	timber		
+resource	iron		
 
 ;Belgrade_Province
-resource	timber 	  	 
-resource	iron 	  	 
+resource	timber		
+resource	iron		
 
 ;Sofia_Province
-resource	furs 	  	 
-resource	timber 	  	 
+resource	furs		
+resource	timber		
 
 ;Preslav_Province
-resource	wine 	  	 
-resource	iron 	  	 
+resource	wine		
+resource	iron		
 
 ;Ragusa_Province
-resource	wine 	  	 
-resource	timber 	  	 
-resource	iron 	  	 
+resource	wine		
+resource	timber		
+resource	iron		
 
 ;Zara_Province
-resource	wine 	  	 
-resource	timber 	  	 
-resource	iron 	  	 
+resource	wine		
+resource	timber		
+resource	iron		
 
 ;Bologna_Province
-resource	marble 	  	 
-resource	cotton 	  	 
+resource	marble		
+resource	cotton		
 
 ;Pamplona_Province
-resource	marble 	  	 
-resource	wool 	  	 
+resource	marble		
+resource	wool		
 
 ;Genoa_Province
-resource	marble 	  	 
-resource	textiles 	  	 
+resource	marble		
+resource	textiles		
 
 ;Florence_Province
-resource	marble 	  	 
-resource	cotton 	  	 
-resource	dyes 	  	 
+resource	marble		
+resource	cotton		
+resource	dyes		
 
 ;Trebizond_Province
-resource	silver 	  	 
-resource	sulfur 	  	 
-resource	sulfur    	 
+resource	silver		
+resource	sulfur		
+resource	sulfur 	
 
 ;Sinope_Province
-resource	silver 	  	 
-resource	silver 	  	 
-resource	sulfur 	  	 
+resource	silver		
+resource	silver		
+resource	sulfur		
 
 ;Marseille_Province
-resource	wine 	  	 
-resource	dyes 	  	 
-resource	marble 	  	 
+resource	wine		
+resource	dyes		
+resource	marble		
 
 ;Yerevan_Province
-resource	silk 	  	 
-resource	iron 	  	 
-resource	iron 	  	 
+resource	silk		
+resource	iron		
+resource	iron		
+resource	furs		
 
 ;Tabriz_Province
-resource	silk 	  	 
-resource	iron 	  	 
-resource	elephants 	  	 
-resource	gold 	  	 
+resource	silk		
+resource	iron		
+resource	elephants		
+resource	gold		
+resource	spices		
 
 ;Zaragoza_Province
-resource	iron 	  	 
-resource	grain 	  	 
-resource	dyes 	  	 
+resource	iron		
+resource	grain		
+resource	dyes		
 
 ;Oporto_Province
-resource	marble 	  	 
-resource	timber 	  	 
-resource	wine 	  	 
+resource	marble		
+resource	timber		
+resource	wine		
 
 ;Thessalonica_Province
-resource	marble 	  	 
-resource	timber 	  	 
-resource	sulfur 	  	 
+resource	marble		
+resource	timber		
+resource	sulfur		
 
 ;Ajaccio_Province
-resource	wine 	  	 
-resource	textiles 	  	 
+resource	wine		
+resource	textiles		
 
 ;Nicaea_Province
-resource	silk 	  	 
-resource	grain 	  	 
-resource	dyes 	  	 
-resource	silk 	  	 
+resource	silk		
+resource	grain		
+resource	dyes		
+resource	silk		
 
 ;Athens_Province
-resource	wine 	  	 
-resource	marble 	  	 
-resource	grain 	  	 
-resource	dyes 	  	 
+resource	wine		
+resource	marble		
+resource	grain		
+resource	dyes		
 
 ;Adrianople_Province
-resource	wine 	  	 
-resource	grain 	  	 
-resource	dyes 	  	 
+resource	wine		
+resource	grain		
+resource	dyes		
 
 ;Abydus_Province
-resource	wine 	  	 
-resource	fish 	  	 
+resource	wine		
+resource	fish		
 
 ;Bari_Province
-resource	marble 	  	 
-resource	wool 	  	 
-resource	dyes 	  	 
+resource	marble		
+resource	wool		
+resource	dyes		
 
 ;Syracuse_Province
-resource	sulfur 	  	 
-resource	wool 	  	 
-resource	fish 	  	 
-resource	wine 	  	 
+resource	sulfur		
+resource	wool		
+resource	fish		
+resource	wine		
 
 ;Caesarea_Province
-resource	timber 	  	 
-resource	silk 	  	 
-resource	iron 	  	 
+resource	timber		
+resource	silk		
+resource	iron		
+resource	spices		
 
 ;Ankara_Province
-resource	timber 	  	 
-resource	silk 	  	 
-resource	iron 	  	 
+resource	timber		
+resource	silk		
+resource	iron		
 
 ;Baghdad_Province
-resource	sulfur 	  	 
-resource	silk 	  	 
-resource	elephants 	  	 
+resource	sulfur		
+resource	silk		
+resource	elephants		
 
 ;Sevilla_Province
-resource	silver 	  	 
-resource	sugar 	  	 
-resource	wine 	  	 
-resource	wine 	  	 
+resource	silver		
+resource	sugar		
+resource	wine		
+resource	wine		
 
 ;Durazzo_Province
-resource	marble 	  	 
-resource	timber 	  	 
-resource	grain 	  	 
-resource	dyes 	  	 
+resource	marble		
+resource	timber		
+resource	grain		
+resource	dyes		
 
 ;Kerkyra_Province
-resource	fish 	  	 
-resource	silver 	  	 
-resource	wine 	  	 
+resource	fish		
+resource	silver		
+resource	wine		
 
 ;Valencia_Province
-resource	silver 	  	 
-resource	wine 	  	 
-resource	timber 	  	 
-resource	fish 	  	 
-resource	silk 	  	 
+resource	silver		
+resource	wine		
+resource	timber		
+resource	fish		
+resource	silk		
 
 ;Mallorca_Province
-resource	silver 	  	 
-resource	wine 	  	 
-resource	timber 	  	 
-resource	sugar 	  	 
+resource	silver		
+resource	wine		
+resource	timber		
+resource	sugar		
 
 ;Adana_Province
-resource	sulfur 	  	 
-resource	wool 	  	 
+resource	sulfur		
+resource	wool		
+resource	spices		
 
 ;Attalia_Province
-resource	sulfur 	  	 
-resource	wool 	  	 
+resource	sulfur		
+resource	wool		
+resource	coal		
 
 ;Mosul_Province
-resource	silk 	  	 
-resource	cotton 	  	 
-resource	silk 	  	 
+resource	silk		
+resource	cotton		
+resource	silk		
 
 ;Cagliari_Province
-resource	fish 	  	 
-resource	silver 	  	 
-resource	fish 	  	 
+resource	fish		
+resource	silver		
+resource	fish		
 
 ;Edessa_Province
-resource	silver 	  	 
-resource	silk 	  	 
-resource	iron 	  	 
+resource	silver		
+resource	silk		
+resource	iron		
 
 ;Smyrna_Province
-resource	wine 	  	 
-resource	timber 	  	 
-resource	iron 	  	 
+resource	wine		
+resource	timber		
+resource	iron		
 
 ;Granada_Province
-resource	cotton 	  	 
-resource	sugar 	  	 
+resource	cotton		
+resource	sugar		
+resource	coal		
 
 ;Brazil
-resource	gold 	  	 
-resource	tobacco 	  	 
-resource	chocolate 	  	 
-resource	timber 	  	 
+resource	gold		
+resource	tobacco		
+resource	chocolate		
+resource	timber		
 
 ;Aleppo_Province
-resource	silver 	  	 
-resource	silk 	  	 
+resource	silver		
+resource	silk		
+resource	spices		
 
 ;Ayla_Province
-resource	silk 	  	 
-resource	iron 	  	 
-resource	camels 	  	 
+resource	silk		
+resource	iron		
+resource	camels		
 
 ;Al_Suways_Province
-resource	fish 	  	 
-resource	iron 	  	 
-resource	spices 	  	 
+resource	fish		
+resource	iron		
+resource	spices		
 
 ;Mekka_Province
-resource	marble 	  	 
-resource	silk 	  	 
-resource	iron 	  	 
-resource	silk 	  	 
+resource	marble		
+resource	silk		
+resource	iron		
+resource	silk		
 
 ;Medina_Province
-resource	slaves 	  	 
-resource	silk 	  	 
+resource	slaves		
+resource	silk		
+resource	camels		
 
 ;Buraidah_Province
-resource	slaves 	  	 
-resource	silk 	  	 
-resource	iron 	  	 
-resource	slaves 	  	 
+resource	slaves		
+resource	silk		
+resource	iron		
+resource	slaves		
 
 ;Palermo_Province
-resource	sulfur 	  	 
-resource	cotton 	  	 
-resource	grain 	  	 
+resource	sulfur		
+resource	cotton		
+resource	grain		
 
 ;Corinth_Province
-resource	silver 	  	 
-resource	marble 	  	 
+resource	silver		
+resource	marble		
+resource	textiles		
 
 ;Marrakesh_Province
-resource	iron 	  	 
-resource	cotton 	  	 
-resource	sugar 	  	 
+resource	iron		
+resource	cotton		
+resource	sugar		
 
 ;Fez_Province
-resource	sulfur 	  	 
-resource	iron 	  	 
-resource	wool 	  	 
-resource	timber 	  	 
-resource	iron 	  	 
+resource	sulfur		
+resource	iron		
+resource	wool		
+resource	timber		
+resource	iron		
 
 ;Sijilmasa_Province
-resource	iron 	  	 
-resource	cotton 	  	 
-resource	sugar 	  	 
+resource	iron		
+resource	cotton		
+resource	sugar		
 
 ;Isle_of_Cyprus
-resource	silver 	  	 
-resource	wine 	  	 
-resource	fish 	  	 
+resource	silver		
+resource	wine		
+resource	fish		
 
 ;Isle_of_Cyprus2
-resource	silver 	  	 
-resource	silk 	  	 
-resource	sugar 	  	 
+resource	silver		
+resource	silk		
+resource	sugar		
 
 ;Damascus_Province
-resource	cotton 	  	 
-resource	sugar 	  	 
-resource	iron 	  	 
+resource	cotton		
+resource	sugar		
+resource	iron		
 
 ;Algiers_Province
-resource	iron 	  	 
-resource	cotton 	  	 
-resource	sugar 	  	 
-resource	silver 	  	 
-resource	slaves 	  	 
+resource	iron		
+resource	cotton		
+resource	sugar		
+resource	silver		
+resource	slaves		
 
 ;Tunis_Province
-resource	iron 	  	 
-resource	cotton 	  	 
-resource	sugar 	  	 
+resource	iron		
+resource	cotton		
+resource	sugar		
 
 ;Acre_Province
-resource	silver 	  	 
-resource	silk 	  	 
-resource	grain 	  	 
+resource	silver		
+resource	silk		
+resource	grain		
 
 ;Isle_of_Rhodes
-resource	silver 	  	 
-resource	wine 	  	 
-resource	marble 	  	 
+resource	silver		
+resource	wine		
+resource	marble		
 
 ;Isle_of_Crete
-resource	silver 	  	 
-resource	silk 	  	 
-resource	cotton 	  	 
+resource	silver		
+resource	silk		
+resource	cotton		
 
 ;Tyre_Province
-resource	fish 	  	 
-resource	silk 	  	 
-resource	dyes 	  	 
-resource	cotton 	  	 
+resource	fish		
+resource	silk		
+resource	cotton		
 
 ;Ascalon_Province
-resource	silk 	  	 
-resource	iron 	  	 
-resource	spices 	  	 
+resource	silk		
+resource	iron		
+resource	spices		
 
 ;Tripoli_Province
-resource	slaves 	  	 
-resource	cotton 	  	 
-resource	sugar 	  	 
-resource	slaves 	  	 
+resource	slaves		
+resource	cotton		
+resource	sugar		
+resource	slaves		
 
 ;Al-Mahdiya_Province
-resource	slaves 	  	 
-resource	cotton 	  	 
-resource	sugar 	  	 
+resource	slaves		
+resource	cotton		
+resource	sugar		
 
 ;Al-Mansurya_Province
-resource	slaves 	  	 
-resource	cotton 	  	 
-resource	sugar 	  	 
+resource	slaves		
+resource	cotton		
+resource	sugar		
 
 ;Barqa_Province
-resource	timber 	  	 
-resource	slaves 	  	 
-resource	cotton 	  	 
-resource	sugar 	  	 
-resource	gold 	  	 
+resource	timber		
+resource	slaves		
+resource	cotton		
+resource	sugar		
+resource	gold		
 
 ;Alexandria_Province
-resource	silver 	  	 
-resource	cotton 	  	 
-resource	sugar 	  	 
+resource	silver		
+resource	cotton		
+resource	sugar		
 
 ;Dumyat_Province
-resource	cotton 	  	 
-resource	sugar 	  	 
-resource	spices 	  	 
-resource	grain 	  	 
+resource	cotton		
+resource	sugar		
+resource	spices		
+resource	grain		
 
 ;Arguin_Province
-resource	slaves 	  	 
-resource	ivory 	  	 
-resource	gold 	  	 
-resource	timber 	  	 
+resource	slaves		
+resource	ivory		
+resource	gold		
+resource	timber		
 
 ;Timbuktu_Province
-resource	slaves 	  	 
-resource	ivory 	  	 
-resource	gold 	  	 
-resource	slaves 	  	 
+resource	slaves		
+resource	ivory		
+resource	gold		
+resource	slaves		
 
 ;Thebes_Province
-resource	timber 	  	 
-resource	cotton 	  	 
-resource	sugar 	  	 
-resource	cotton 	  	 
+resource	timber		
+resource	cotton		
+resource	sugar		
+resource	cotton		
 
 ;Dongola_Province
-resource	slaves 	  	 
-resource	ivory 	  	 
-resource	elephants 	  	 
-resource	camels 	  	 
+resource	slaves		
+resource	ivory		
+resource	elephants		
+resource	camels		

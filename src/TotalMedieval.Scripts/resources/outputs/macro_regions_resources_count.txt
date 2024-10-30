@@ -41,7 +41,7 @@ Scandinavia: 29 {
   timber: 7,
   iron: 4,
 }
-Hellas: 26 {
+Hellas: 27 {
   silk: 2,
   grain: 4,
   dyes: 4,
@@ -51,6 +51,7 @@ Hellas: 26 {
   sulfur: 1,
   fish: 1,
   silver: 3,
+  textiles: 1,
   cotton: 1,
 }
 Americas: 24 {
@@ -85,6 +86,19 @@ Italia: 23 {
   sulfur: 2,
   silver: 1,
 }
+Andalusia: 23 {
+  silver: 4,
+  sugar: 4,
+  marble: 1,
+  tin: 1,
+  wine: 5,
+  timber: 3,
+  wool: 1,
+  fish: 1,
+  silk: 1,
+  cotton: 1,
+  coal: 1,
+}
 Ruthenia: 23 {
   furs: 5,
   silver: 1,
@@ -110,18 +124,6 @@ Russia: 23 {
   sulfur: 1,
   slaves: 1,
 }
-Andalusia: 22 {
-  silver: 4,
-  sugar: 4,
-  marble: 1,
-  tin: 1,
-  wine: 5,
-  timber: 3,
-  wool: 1,
-  fish: 1,
-  silk: 1,
-  cotton: 1,
-}
 Francia: 22 {
   wine: 4,
   timber: 4,
@@ -132,7 +134,7 @@ Francia: 22 {
   coal: 1,
   fish: 1,
 }
-FertileCrescent: 22 {
+FertileCrescent: 21 {
   wool: 2,
   sugar: 1,
   silver: 2,
@@ -142,7 +144,6 @@ FertileCrescent: 22 {
   fish: 2,
   spices: 2,
   grain: 1,
-  dyes: 1,
   cotton: 1,
 }
 Hispania: 20 {
@@ -166,7 +167,7 @@ Baltic: 20 {
   slaves: 1,
   silver: 2,
 }
-Mesopotamia: 19 {
+Mesopotamia: 20 {
   sulfur: 1,
   silk: 8,
   elephants: 1,
@@ -175,6 +176,28 @@ Mesopotamia: 19 {
   iron: 3,
   marble: 1,
   slaves: 3,
+  camels: 1,
+}
+Assyria: 19 {
+  cotton: 2,
+  sugar: 4,
+  iron: 2,
+  spices: 2,
+  camels: 1,
+  dyes: 1,
+  silver: 3,
+  silk: 2,
+  wine: 1,
+  fish: 1,
+}
+Cappadocia: 18 {
+  sulfur: 4,
+  iron: 4,
+  wool: 2,
+  silk: 3,
+  silver: 1,
+  timber: 2,
+  spices: 2,
 }
 Poland_Lithuania: 18 {
   furs: 4,
@@ -197,6 +220,42 @@ Lombardy: 18 {
   tin: 1,
   cotton: 2,
 }
+Caledonia: 18 {
+  furs: 1,
+  timber: 4,
+  iron: 2,
+  coal: 3,
+  fish: 3,
+  wool: 3,
+  dogs: 1,
+  textiles: 1,
+}
+Caucasia: 18 {
+  furs: 3,
+  timber: 2,
+  slaves: 2,
+  sugar: 1,
+  spices: 2,
+  wine: 1,
+  silk: 2,
+  iron: 3,
+  elephants: 1,
+  gold: 1,
+}
+Asia_Minor: 18 {
+  silver: 3,
+  sulfur: 2,
+  silk: 2,
+  grain: 1,
+  dyes: 1,
+  wine: 3,
+  fish: 1,
+  wool: 1,
+  coal: 1,
+  timber: 1,
+  iron: 1,
+  marble: 1,
+}
 Britannia: 17 {
   wool: 4,
   dyes: 4,
@@ -206,16 +265,15 @@ Britannia: 17 {
   timber: 1,
   grain: 1,
 }
-Assyria: 17 {
-  cotton: 2,
-  sugar: 4,
+Hibernia: 17 {
+  timber: 4,
   iron: 2,
-  spices: 1,
-  camels: 1,
-  silver: 3,
-  silk: 2,
-  wine: 1,
+  dogs: 1,
+  furs: 5,
   fish: 1,
+  silver: 2,
+  slaves: 1,
+  gold: 1,
 }
 Occitania: 17 {
   iron: 3,
@@ -225,52 +283,4 @@ Occitania: 17 {
   furs: 2,
   timber: 2,
   marble: 1,
-}
-Asia_Minor: 17 {
-  silver: 3,
-  sulfur: 2,
-  silk: 2,
-  grain: 1,
-  dyes: 1,
-  wine: 3,
-  fish: 1,
-  wool: 1,
-  timber: 1,
-  iron: 1,
-  marble: 1,
-}
-Cappadocia: 16 {
-  sulfur: 4,
-  iron: 4,
-  wool: 2,
-  silk: 3,
-  silver: 1,
-  timber: 2,
-}
-Caledonia: 15 {
-  furs: 1,
-  timber: 4,
-  iron: 2,
-  coal: 2,
-  fish: 3,
-  wool: 3,
-}
-Hibernia: 15 {
-  timber: 4,
-  iron: 2,
-  furs: 5,
-  fish: 1,
-  silver: 2,
-  slaves: 1,
-}
-Caucasia: 15 {
-  furs: 2,
-  timber: 2,
-  slaves: 2,
-  sugar: 1,
-  wine: 1,
-  silk: 2,
-  iron: 3,
-  elephants: 1,
-  gold: 1,
 }

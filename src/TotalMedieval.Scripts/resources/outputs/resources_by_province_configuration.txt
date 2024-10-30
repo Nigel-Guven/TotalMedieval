@@ -1,5 +1,3 @@
-## Resources:
-
 Tenochtitlan_Province:
   - timber
   - gold
@@ -136,6 +134,7 @@ Novgorod_Province:
 Cork_Province:
   - timber
   - iron
+  - dogs
 
 Caernarvon_Province:
   - wool
@@ -191,6 +190,7 @@ Castle_Town_Province:
 Wick_Province:
   - fish
   - wool
+  - dogs
 
 Skara_Province:
   - timber
@@ -256,6 +256,7 @@ Krak_de_Chevaliers_Province:
   - sugar
   - spices
   - camels
+  - dyes
 
 Valladolid_Province:
   - timber
@@ -302,6 +303,7 @@ Danzig_Province:
 Inverness_Province:
   - timber
   - wool
+  - coal
 
 Aberdeen_Province:
   - fish
@@ -310,6 +312,7 @@ Aberdeen_Province:
 Dumfries_Province:
   - fish
   - timber
+  - textiles
 
 Stockholm_Province:
   - furs
@@ -366,6 +369,7 @@ Dublin_Province:
   - furs
   - silver
   - slaves
+  - gold
 
 Wexford_Province:
   - furs
@@ -568,6 +572,7 @@ Tbilisi_Province:
   - timber
   - slaves
   - sugar
+  - spices
 
 Kutais_Province:
   - furs
@@ -659,12 +664,14 @@ Yerevan_Province:
   - silk
   - iron
   - iron
+  - furs
 
 Tabriz_Province:
   - silk
   - iron
   - elephants
   - gold
+  - spices
 
 Zaragoza_Province:
   - iron
@@ -721,6 +728,7 @@ Caesarea_Province:
   - timber
   - silk
   - iron
+  - spices
 
 Ankara_Province:
   - timber
@@ -765,10 +773,12 @@ Mallorca_Province:
 Adana_Province:
   - sulfur
   - wool
+  - spices
 
 Attalia_Province:
   - sulfur
   - wool
+  - coal
 
 Mosul_Province:
   - silk
@@ -793,6 +803,7 @@ Smyrna_Province:
 Granada_Province:
   - cotton
   - sugar
+  - coal
 
 Brazil:
   - gold
@@ -803,6 +814,7 @@ Brazil:
 Aleppo_Province:
   - silver
   - silk
+  - spices
 
 Ayla_Province:
   - silk
@@ -823,6 +835,7 @@ Mekka_Province:
 Medina_Province:
   - slaves
   - silk
+  - camels
 
 Buraidah_Province:
   - slaves
@@ -838,6 +851,7 @@ Palermo_Province:
 Corinth_Province:
   - silver
   - marble
+  - textiles
 
 Marrakesh_Province:
   - iron
@@ -901,7 +915,6 @@ Isle_of_Crete:
 Tyre_Province:
   - fish
   - silk
-  - dyes
   - cotton
 
 Ascalon_Province:

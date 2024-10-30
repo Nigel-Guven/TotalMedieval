@@ -196,6 +196,7 @@ resource	furs,	351,	293
 ;Cork_Province
 resource	timber,	131,	282
 resource	iron,	140,	277
+resource	dogs,	136,	282
 
 ;Caernarvon_Province
 resource	wool,	165,	279
@@ -251,6 +252,7 @@ resource	fish,	166,	292
 ;Wick_Province
 resource	fish,	175,	331
 resource	wool,	171,	329
+resource	dogs,	173,	329
 
 ;Skara_Province
 resource	timber,	260,	319
@@ -316,6 +318,7 @@ resource	sugar,	265,	167
 resource	sugar,	435,	119
 resource	spices,	435,	122
 resource	camels,	438,	122
+resource	dyes,	433,	122
 
 ;Valladolid_Province
 resource	timber,	143,	185
@@ -362,6 +365,7 @@ resource	amber,	281,	282
 ;Inverness_Province
 resource	timber,	173,	318
 resource	wool,	170,	321
+resource	coal,	166,	318
 
 ;Aberdeen_Province
 resource	fish,	181,	321
@@ -370,6 +374,7 @@ resource	iron,	176,	315
 ;Dumfries_Province
 resource	fish,	167,	303
 resource	timber,	172,	300
+resource	textiles,	165,	299
 
 ;Stockholm_Province
 resource	furs,	291,	324
@@ -426,6 +431,7 @@ resource	timber,	365,	285
 resource	furs,	158,	296
 resource	silver,	151,	290
 resource	slaves,	154,	290
+resource	gold,	154,	296
 
 ;Wexford_Province
 resource	furs,	146,	282
@@ -628,6 +634,7 @@ resource	furs,	471,	191
 resource	timber,	482,	192
 resource	slaves,	480,	196
 resource	sugar,	505,	192
+resource	spices,	494,	197
 
 ;Kutais_Province
 resource	furs,	454,	199
@@ -719,12 +726,14 @@ resource	marble,	212,	188
 resource	silk,	483,	179
 resource	iron,	480,	179
 resource	iron,	454,	170
+resource	furs,	467,	166
 
 ;Tabriz_Province
 resource	silk,	496,	168
 resource	iron,	502,	166
 resource	elephants,	497,	178
 resource	gold,	502,	182
+resource	spices,	501,	160
 
 ;Zaragoza_Province
 resource	iron,	159,	169
@@ -781,6 +790,7 @@ resource	wine,	267,	113
 resource	timber,	416,	150
 resource	silk,	427,	152
 resource	iron,	424,	157
+resource	spices,	425,	162
 
 ;Ankara_Province
 resource	timber,	411,	160
@@ -825,10 +835,12 @@ resource	sugar,	186,	146
 ;Adana_Province
 resource	sulfur,	423,	135
 resource	wool,	427,	134
+resource	spices,	428,	138
 
 ;Attalia_Province
 resource	sulfur,	397,	127
 resource	wool,	400,	125
+resource	coal,	403,	129
 
 ;Mosul_Province
 resource	silk,	488,	138
@@ -853,6 +865,7 @@ resource	iron,	366,	125
 ;Granada_Province
 resource	cotton,	141,	127
 resource	sugar,	128,	131
+resource	coal,	152,	134
 
 ;Brazil
 resource	gold,	8,	142
@@ -863,6 +876,7 @@ resource	timber,	8,	127
 ;Aleppo_Province
 resource	silver,	445,	129
 resource	silk,	442,	128
+resource	spices,	448,	134
 
 ;Ayla_Province
 resource	silk,	447,	53
@@ -883,6 +897,7 @@ resource	silk,	465,	12
 ;Medina_Province
 resource	slaves,	459,	47
 resource	silk,	462,	34
+resource	camels,	472,	44
 
 ;Buraidah_Province
 resource	slaves,	484,	78
@@ -898,6 +913,7 @@ resource	grain,	258,	124
 ;Corinth_Province
 resource	silver,	330,	124
 resource	marble,	329,	117
+resource	textiles,	333,	121
 
 ;Marrakesh_Province
 resource	iron,	92,	96
@@ -961,7 +977,6 @@ resource	cotton,	344,	102
 ;Tyre_Province
 resource	fish,	433,	112
 resource	silk,	435,	109
-resource	dyes,	433,	122
 resource	cotton,	435,	113
 
 ;Ascalon_Province
