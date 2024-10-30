@@ -98,6 +98,7 @@ Edinburgh_Province:
   - furs
   - timber
   - iron
+  - textiles
 
 Oslo_Province:
   - furs
@@ -110,6 +111,7 @@ Jerusalem_Province:
   - wool
   - sugar
   - silver
+  - spices
 
 Antioch_Province:
   - cotton
@@ -157,6 +159,7 @@ Tver_Province:
 Oran_Province:
   - slaves
   - sugar
+  - spices
 
 Malta_Province:
   - fish
@@ -170,14 +173,17 @@ North_America:
   - gold
   - coal
   - tobacco
+  - tobacco
 
 Malatya_Province:
   - silk
   - iron
+  - gold
 
 Huaxtepec_Province:
   - silver
   - tobacco
+  - gold
 
 Lancaster_Province:
   - timber
@@ -235,6 +241,8 @@ Utrecht_Province:
 Galway_Province:
   - furs
   - timber
+  - dogs
+  - grain
 
 Cardiff_Province:
   - timber
@@ -348,6 +356,7 @@ Volga-Bulgar_Province:
   - silver
   - timber
   - slaves
+  - camels
 
 Viatka_Province:
   - furs
@@ -418,6 +427,7 @@ Tollan_Province:
   - dyes
   - gold
   - tobacco
+  - chocolate
 
 Azov_Province:
   - silver
@@ -502,12 +512,14 @@ Rheims_Province:
 Rennes_Province:
   - fish
   - wine
+  - textiles
 
 Nuremburg_Province:
   - wine
   - timber
   - iron
   - tin
+  - gold
 
 Hohenstauffen_Province:
   - furs
@@ -523,6 +535,7 @@ Iasi_Province:
 Tixtla_Province:
   - gold
   - tobacco
+  - chocolate
   - chocolate
 
 Angers_Province:
@@ -588,10 +601,12 @@ Bucharest_Province:
 Turin_Province:
   - furs
   - tin
+  - textiles
 
 Toulouse_Province:
   - iron
   - dyes
+  - coal
 
 Barcelona_Province:
   - silver
@@ -617,6 +632,7 @@ Sofia_Province:
 Preslav_Province:
   - wine
   - iron
+  - textiles
 
 Ragusa_Province:
   - wine
@@ -635,10 +651,12 @@ Bologna_Province:
 Pamplona_Province:
   - marble
   - wool
+  - textiles
 
 Genoa_Province:
   - marble
   - textiles
+  - spices
 
 Florence_Province:
   - marble
@@ -665,6 +683,7 @@ Yerevan_Province:
   - iron
   - iron
   - furs
+  - coal
 
 Tabriz_Province:
   - silk
@@ -691,6 +710,7 @@ Thessalonica_Province:
 Ajaccio_Province:
   - wine
   - textiles
+  - spices
 
 Nicaea_Province:
   - silk
@@ -712,6 +732,7 @@ Adrianople_Province:
 Abydus_Province:
   - wine
   - fish
+  - textiles
 
 Bari_Province:
   - marble
@@ -739,6 +760,7 @@ Baghdad_Province:
   - sulfur
   - silk
   - elephants
+  - camels
 
 Sevilla_Province:
   - silver
@@ -810,6 +832,7 @@ Brazil:
   - tobacco
   - chocolate
   - timber
+  - tobacco
 
 Aleppo_Province:
   - silver
@@ -836,12 +859,14 @@ Medina_Province:
   - slaves
   - silk
   - camels
+  - elephants
 
 Buraidah_Province:
   - slaves
   - silk
   - iron
   - slaves
+  - camels
 
 Palermo_Province:
   - sulfur
@@ -937,6 +962,7 @@ Al-Mansurya_Province:
   - slaves
   - cotton
   - sugar
+  - camels
 
 Barqa_Province:
   - timber
@@ -949,6 +975,7 @@ Alexandria_Province:
   - silver
   - cotton
   - sugar
+  - spices
 
 Dumyat_Province:
   - cotton
