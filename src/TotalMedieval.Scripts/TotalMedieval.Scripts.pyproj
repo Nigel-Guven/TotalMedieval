@@ -21,6 +21,9 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="scripts\get_macro_region_resources_count.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="scripts\get_resources_by_province.py" />
     <Compile Include="scripts\get_all_resources.py" />
     <Compile Include="scripts\get_resource_counts.py" />
@@ -33,6 +36,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="resources\inputs\map_macro_regions.yaml" />
+    <Content Include="resources\outputs\current_macro_regions_resources.txt" />
     <Content Include="resources\outputs\current_province_configuration.txt" />
     <Content Include="resources\outputs\current_resource_configuration.txt" />
     <Content Include="resources\inputs\map_provinces.txt" />

@@ -1,8 +1,226 @@
-;British_Isles
-London_Province
+macro:
+  Caledonia:
+    - Lancaster_Province
+    - Wick_Province
+    - Edinburgh_Province 
+    - Inverness_Province
+    - Aberdeen_Province
+    - Dumfries_Province
+    - York_Province
+  Britannia:
+    - London_Province 
+    - Caernarvon_Province
+    - Cardiff_Province
+    - Exeter_Province
+    - Gloucester_Province
+    - Nottingham_Province
+  Hibernia:
+    - Cork_Province 
+    - Galway_Province
+    - Dublin_Province
+    - Wexford_Province
+    - Donegal_Province
+    - Castle_Town_Province
+  Italia:
+    - Roman_Province
+    - Malta_Province
+    - Naples_Province
+    - Syracuse_Province
+    - Bari_Province
+    - Ajaccio_Province
+    - Cagliari_Province
+    - Palermo_Province
+  Lombardy:
+    - Venice_Province
+    - Milan_Province
+    - Ancona_Province
+    - Turin_Province
+    - Bologna_Province
+    - Genoa_Province
+    - Florence_Province
+  Americas:
+    - Tenochtitlan_Province
+    - North_America
+    - Huaxtepec_Province
+    - Cuba
+    - Tollan_Province
+    - Tixtla_Province
+    - Brazil
+  Hellas:
+    - Constantinople_Province
+    - Thessalonica_Province
+    - Athens_Province
+    - Adrianople_Province
+    - Corinth_Province
+    - Durazzo_Province
+    - Kerkyra_Province
+    - Isle_of_Crete
+  Asia_Minor:  
+    - Nicaea_Province
+    - Abydus_Province
+    - Attalia_Province
+    - Smyrna_Province
+    - Isle_of_Rhodes
+    - Sinope_Province
+  Cappadocia:
+    - Iconium_Province
+    - Malatya_Province
+    - Trebizond_Province
+    - Caesarea_Province
+    - Ankara_Province
+    - Adana_Province
+  Germania:
+    - Frankfurt_Province   
+    - Hamburg_Province
+    - Magdeburg_Province
+    - Prague_Province
+    - Nuremburg_Province
+    - Hohenstauffen_Province
+    - Vienna_Province
+    - Stettin_Province
+  Poland_Lithuania:
+    - Krakow_Province
+    - Vilnius_Province
+    - Marienburg_Province
+    - Hrodna_Province
+    - Poznan_Province
+    - Konigsberg_Province
+    - Danzig_Province
+  Hispania:  
+    - Toledo_Province   
+    - Santiago_Province
+    - Valladolid_Province
+    - Pamplona_Province
+    - Barcelona_Province
+    - Leon_Province
+    - Zaragoza_Province
+    - Oporto_Province 
+  Andalusia:
+    - Cordoba_Province
+    - Lisbon_Province
+    - Badajoz_Province
+    - Valencia_Province
+    - Mallorca_Province
+    - Sevilla_Province
+    - Granada_Province
+  Francia:
+    - Paris_Province
+    - Utrecht_Province
+    - Antwerp_Province
+    - Rheims_Province
+    - Rennes_Province
+    - Bruges_Province
+    - Metz_Province
+    - Caen_Province  
+    - Angers_Province   
+  Occitania:
+    - Bern_Province
+    - Innsbruck_Province
+    - Bordeaux_Province
+    - Marseille_Province
+    - Toulouse_Province
+    - Clermont_Province
+    - Dijon_Province
+  Africa:
+    - Oran_Province
+    - Al-Mahdiya_Province
+    - Arguin_Province
+    - Timbuktu_Province
+    - Marrakesh_Province
+    - Fez_Province
+    - Algiers_Province
+    - Tunis_Province
+    - Sijilmasa_Province
+  Aegyptus:
+    - Cairo_Province
+    - Barqa_Province
+    - Thebes_Province
+    - Dongola_Province
+    - Alexandria_Province
+    - Dumyat_Province
+    - Arguin_Province
+  Steppe:
+    - Sarkel_Province
+    - Tmutarakan_Province
+    - Samandar_Province
+    - Belo-Ozero_Province
+    - Volga-Bulgar_Province
+    - Cherson_Province
+    - Azov_Province
+    - Viatka_Province   
+    - Atil_Province 
+  Ruthenia:
+    - Kiev_Province
+    - Peremyshl_Province
+    - Tzernigov_Province
+    - Halych_Province
+    - Turov_Province
+    - Iasi_Province
+    - Minsk_Province
+  Russia:
+    - Tver_Province
+    - Murom_Province
+    - Moscow_Province
+    - Kozelsk_Province
+    - Ryazan_Province
+    - Novgorod_Province
+    - Pskov_Province
+    - Smolensk_Province
+  Balkans:
+    - Budapest_Province 
+    - Bran_Province
+    - Bucharest_Province
+    - Zagreb_Province
+    - Belgrade_Province
+    - Sofia_Province
+    - Preslav_Province
+    - Ragusa_Province
+    - Zara_Province
+  Scandinavia:
+    - Oslo_Province
+    - Arhus_Province
+    - Tingvalla_Province
+    - Skara_Province
+    - Agder_Province   
+    - Stockholm_Province
+    - Kalmar_Province
+    - Lund_Province
+    - Roskilde_Province  
+  Baltic: 
+    - Helsinki_Province
+    - Visby_Province
+    - Reval_Province
+    - Riga_Province
+    - Arensburg_Province
+    - Palanga_Province
+  FertileCrescent:
+    - Jerusalem_Province   
+    - Kerak_Province
+    - Tyre_Province
+    - Ascalon_Province
+    - Tripoli_Province 
+    - Acre_Province
+    - Ayla_Province
+    - Al_Suways_Province
+  Assyria:
+    - Antioch_Province
+    - Krak_de_Chevaliers_Province
+    - Isle_of_Cyprus
+    - Isle_of_Cyprus2
+    - Damascus_Province
+    - Aleppo_Province
+  Mesopotamia:
+    - Baghdad_Province
+    - Mosul_Province
+    - Mekka_Province
+    - Medina_Province
+    - Buraidah_Province
+    - Al-Mansurya_Province
+    - Edessa_Province
+  Caucasia:
+    - Tbilisi_Province
+    - Kutais_Province
+    - Yerevan_Province
+    - Tabriz_Province
 
-
-;Italia
-
-
-;Americas
+  

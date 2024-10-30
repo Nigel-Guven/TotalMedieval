@@ -18,11 +18,9 @@ def read_resources(file_path):
 
     return resources
 
-# Function to count resources per province based on y.txt
 def count_resources_per_province(resources, province_list_file):
     province_count = {}
 
-    # Initialize the counts for provinces in y.txt
     with open(province_list_file, 'r') as file:
         for line in file:
             province = line.strip()
@@ -30,7 +28,6 @@ def count_resources_per_province(resources, province_list_file):
 
     return province_count
 
-# Main script execution
 def main():
     resources_file = 'resources\\inputs\\map_resources.txt'
     province_list_file = 'resources\\inputs\\map_provinces.txt'
@@ -50,7 +47,6 @@ def main():
 
     fileWriter.close()    
 
-# Run the script
 if __name__ == "__main__":
     main()
     sys.exit()

@@ -25,5 +25,4 @@ def count_resources(file_path, output_file='resources\\outputs\\current_resource
     
     print(f"Resource counts have been written to {output_file}")
 
-# Usage
 count_resources('resources\\inputs\\map_resources.txt')
