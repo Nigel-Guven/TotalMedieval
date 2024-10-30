@@ -1,3 +1,5 @@
+; ## Resources 
+
 ;Tenochtitlan_Province
 resource	timber 	  	 
 resource	gold 	  	 
@@ -14,7 +16,7 @@ resource	wine
 resource	silk 	  	 
 resource	grain 	  	 
 resource	dyes 	  	 
-resource	wine	  	 
+resource	wine 	  	 
 
 ;Frankfurt_Province
 resource	wool 	  	 
@@ -114,7 +116,7 @@ resource	silver
 ;Antioch_Province
 resource	cotton 	  	 
 resource	sugar 	  	 
-resource	iron	  	 
+resource	iron 	  	 
 
 ;Vilnius_Province
 resource	furs 	  	 
@@ -138,6 +140,7 @@ resource	iron
 ;Caernarvon_Province
 resource	wool 	  	 
 resource	coal 	  	 
+resource	textiles 	  	 
 
 ;Murom_Province
 resource	iron 	  	 
@@ -158,7 +161,7 @@ resource	sugar
 
 ;Malta_Province
 resource	fish 	  	 
-resource	wine	  	 
+resource	wine 	  	 
 
 ;Badajoz_Province
 resource	timber 	  	 
@@ -236,6 +239,8 @@ resource	timber
 ;Cardiff_Province
 resource	timber 	  	 
 resource	coal 	  	 
+resource	grain 	  	 
+resource	tin 	  	 
 
 ;Visby_Province
 resource	silver 	  	 
@@ -249,11 +254,13 @@ resource	sugar
 
 ;Krak_de_Chevaliers_Province
 resource	sugar 	  	 
+resource	spices 	  	 
+resource	camels 	  	 
 
 ;Valladolid_Province
 resource	timber 	  	 
 resource	iron 	  	 
-resource	fish	  	 
+resource	fish 	  	 
 
 ;Exeter_Province
 resource	wool 	  	 
@@ -277,7 +284,7 @@ resource	amber
 ;Lund_Province
 resource	timber 	  	 
 resource	amber 	  	 
-resource	timber	  	 
+resource	timber 	  	 
 
 ;Kerak_Province
 resource	silk 	  	 
@@ -363,6 +370,7 @@ resource	slaves
 ;Wexford_Province
 resource	furs 	  	 
 resource	timber 	  	 
+resource	silver 	  	 
 
 ;Donegal_Province
 resource	furs 	  	 
@@ -376,6 +384,8 @@ resource	coal
 ;Cuba
 resource	silver 	  	 
 resource	timber 	  	 
+resource	gold 	  	 
+resource	tobacco 	  	 
 
 ;Ryazan_Province
 resource	timber 	  	 
@@ -483,7 +493,7 @@ resource	iron
 ;Rheims_Province
 resource	iron 	  	 
 resource	coal 	  	 
-resource	wine	  	 
+resource	wine 	  	 
 
 ;Rennes_Province
 resource	fish 	  	 
@@ -504,7 +514,7 @@ resource	timber
 resource	wine 	  	 
 resource	timber 	  	 
 resource	iron 	  	 
-resource	timber	  	 
+resource	timber 	  	 
 
 ;Tixtla_Province
 resource	gold 	  	 
@@ -523,7 +533,7 @@ resource	iron
 
 ;Tmutarakan_Province
 resource	furs 	  	 
-resource	fish	  	 
+resource	fish 	  	 
 resource	slaves 	  	 
 
 ;Cherson_Province
@@ -568,7 +578,7 @@ resource	wine
 ;Bucharest_Province
 resource	wine 	  	 
 resource	iron 	  	 
-resource	fish	  	 
+resource	fish 	  	 
 
 ;Turin_Province
 resource	furs 	  	 
@@ -633,6 +643,7 @@ resource	dyes
 ;Trebizond_Province
 resource	silver 	  	 
 resource	sulfur 	  	 
+resource	sulfur    	 
 
 ;Sinope_Province
 resource	silver 	  	 
@@ -642,16 +653,18 @@ resource	sulfur
 ;Marseille_Province
 resource	wine 	  	 
 resource	dyes 	  	 
-resource	marble	  	 
+resource	marble 	  	 
 
 ;Yerevan_Province
 resource	silk 	  	 
 resource	iron 	  	 
-resource	iron	  	 
+resource	iron 	  	 
 
 ;Tabriz_Province
 resource	silk 	  	 
 resource	iron 	  	 
+resource	elephants 	  	 
+resource	gold 	  	 
 
 ;Zaragoza_Province
 resource	iron 	  	 
@@ -661,7 +674,7 @@ resource	dyes
 ;Oporto_Province
 resource	marble 	  	 
 resource	timber 	  	 
-resource	wine	  	 
+resource	wine 	  	 
 
 ;Thessalonica_Province
 resource	marble 	  	 
@@ -701,8 +714,8 @@ resource	dyes
 ;Syracuse_Province
 resource	sulfur 	  	 
 resource	wool 	  	 
-resource	fish	  	 
-resource	wine	  	 
+resource	fish 	  	 
+resource	wine 	  	 
 
 ;Caesarea_Province
 resource	timber 	  	 
@@ -717,13 +730,13 @@ resource	iron
 ;Baghdad_Province
 resource	sulfur 	  	 
 resource	silk 	  	 
-resource	elephants	  	 
+resource	elephants 	  	 
 
 ;Sevilla_Province
 resource	silver 	  	 
 resource	sugar 	  	 
-resource	wine	  	 
-resource	wine	  	 
+resource	wine 	  	 
+resource	wine 	  	 
 
 ;Durazzo_Province
 resource	marble 	  	 
@@ -740,8 +753,8 @@ resource	wine
 resource	silver 	  	 
 resource	wine 	  	 
 resource	timber 	  	 
-resource	fish	  	 
-resource	silk	  	 
+resource	fish 	  	 
+resource	silk 	  	 
 
 ;Mallorca_Province
 resource	silver 	  	 
@@ -770,7 +783,7 @@ resource	fish
 ;Edessa_Province
 resource	silver 	  	 
 resource	silk 	  	 
-resource	iron	  	 
+resource	iron 	  	 
 
 ;Smyrna_Province
 resource	wine 	  	 
@@ -785,7 +798,7 @@ resource	sugar
 resource	gold 	  	 
 resource	tobacco 	  	 
 resource	chocolate 	  	 
-resource	timber	  	 
+resource	timber 	  	 
 
 ;Aleppo_Province
 resource	silver 	  	 
@@ -794,10 +807,12 @@ resource	silk
 ;Ayla_Province
 resource	silk 	  	 
 resource	iron 	  	 
+resource	camels 	  	 
 
 ;Al_Suways_Province
 resource	fish 	  	 
 resource	iron 	  	 
+resource	spices 	  	 
 
 ;Mekka_Province
 resource	marble 	  	 
@@ -813,7 +828,7 @@ resource	silk
 resource	slaves 	  	 
 resource	silk 	  	 
 resource	iron 	  	 
-resource	slaves	  	 
+resource	slaves 	  	 
 
 ;Palermo_Province
 resource	sulfur 	  	 
@@ -833,8 +848,8 @@ resource	sugar
 resource	sulfur 	  	 
 resource	iron 	  	 
 resource	wool 	  	 
-resource	timber	  	 
-resource	iron	  	 
+resource	timber 	  	 
+resource	iron 	  	 
 
 ;Sijilmasa_Province
 resource	iron 	  	 
@@ -844,9 +859,9 @@ resource	sugar
 ;Isle_of_Cyprus
 resource	silver 	  	 
 resource	wine 	  	 
-resource	fish	  	 
+resource	fish 	  	 
 
-;Isle_of_Cyprus2 
+;Isle_of_Cyprus2
 resource	silver 	  	 
 resource	silk 	  	 
 resource	sugar 	  	 
@@ -854,13 +869,13 @@ resource	sugar
 ;Damascus_Province
 resource	cotton 	  	 
 resource	sugar 	  	 
-resource	iron	  	 
+resource	iron 	  	 
 
 ;Algiers_Province
 resource	iron 	  	 
 resource	cotton 	  	 
 resource	sugar 	  	 
-resource	silver	  	 
+resource	silver 	  	 
 resource	slaves 	  	 
 
 ;Tunis_Province
@@ -871,6 +886,7 @@ resource	sugar
 ;Acre_Province
 resource	silver 	  	 
 resource	silk 	  	 
+resource	grain 	  	 
 
 ;Isle_of_Rhodes
 resource	silver 	  	 
@@ -891,7 +907,7 @@ resource	cotton
 ;Ascalon_Province
 resource	silk 	  	 
 resource	iron 	  	 
-resource	spices	  	 
+resource	spices 	  	 
 
 ;Tripoli_Province
 resource	slaves 	  	 
@@ -924,12 +940,14 @@ resource	sugar
 ;Dumyat_Province
 resource	cotton 	  	 
 resource	sugar 	  	 
+resource	spices 	  	 
+resource	grain 	  	 
 
 ;Arguin_Province
 resource	slaves 	  	 
 resource	ivory 	  	 
 resource	gold 	  	 
-resource	timber	  	 
+resource	timber 	  	 
 
 ;Timbuktu_Province
 resource	slaves 	  	 
@@ -945,4 +963,6 @@ resource	cotton
 
 ;Dongola_Province
 resource	slaves 	  	 
-resource	ivory 	  	 	 	 
+resource	ivory 	  	 
+resource	elephants 	  	 
+resource	camels 	  	 

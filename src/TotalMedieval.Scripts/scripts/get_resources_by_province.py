@@ -1,5 +1,5 @@
 input_file = 'resources\\inputs\\map_resources.txt'
-output_file = 'resources\\outputs\\current_province_configuration.txt'
+output_file = 'resources\\outputs\\resources_by_province_configuration.txt'
 
 province_resources = {}
 

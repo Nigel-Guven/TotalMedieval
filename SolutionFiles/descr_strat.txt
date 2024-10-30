@@ -200,6 +200,7 @@ resource	iron,	140,	277
 ;Caernarvon_Province
 resource	wool,	165,	279
 resource	coal,	167,	283
+resource	textiles,	164,	276
 
 ;Murom_Province
 resource	iron,	443,	285
@@ -298,6 +299,8 @@ resource	timber,	143,	289
 ;Cardiff_Province
 resource	timber,	172,	269
 resource	coal,	162,	270
+resource	grain,	172,	273
+resource	tin,	169,	267
 
 ;Visby_Province
 resource	silver,	287,	311
@@ -311,6 +314,8 @@ resource	sugar,	265,	167
 
 ;Krak_de_Chevaliers_Province
 resource	sugar,	435,	119
+resource	spices,	435,	122
+resource	camels,	438,	122
 
 ;Valladolid_Province
 resource	timber,	143,	185
@@ -425,6 +430,7 @@ resource	slaves,	154,	290
 ;Wexford_Province
 resource	furs,	146,	282
 resource	timber,	154,	281
+resource	silver,	147,	282
 
 ;Donegal_Province
 resource	furs,	148,	303
@@ -438,6 +444,8 @@ resource	coal,	184,	294
 ;Cuba
 resource	silver,	47,	283
 resource	timber,	43,	285
+resource	gold,	39,	282
+resource	tobacco,	51,	276
 
 ;Ryazan_Province
 resource	timber,	418,	278
@@ -695,6 +703,7 @@ resource	dyes,	252,	175
 ;Trebizond_Province
 resource	silver,	448,	186
 resource	sulfur,	440,	183
+resource	sulfur, 450,	171
 
 ;Sinope_Province
 resource	silver,	405,	180
@@ -714,6 +723,8 @@ resource	iron,	454,	170
 ;Tabriz_Province
 resource	silk,	496,	168
 resource	iron,	502,	166
+resource	elephants,	497,	178
+resource	gold,	502,	182
 
 ;Zaragoza_Province
 resource	iron,	159,	169
@@ -856,10 +867,12 @@ resource	silk,	442,	128
 ;Ayla_Province
 resource	silk,	447,	53
 resource	iron,	451,	60
+resource	camels,	461,	63
 
 ;Al_Suways_Province
 resource	fish,	423,	60
 resource	iron,	435,	59
+resource	spices,	425,	60
 
 ;Mekka_Province
 resource	marble,	479,	12
@@ -933,6 +946,7 @@ resource	sugar,	236,	106
 ;Acre_Province
 resource	silver,	435,	104
 resource	silk,	434,	96
+resource	grain,	433,	106
 
 ;Isle_of_Rhodes
 resource	silver,	371,	117
@@ -986,6 +1000,8 @@ resource	sugar,	396,	68
 ;Dumyat_Province
 resource	cotton,	418,	70
 resource	sugar,	416,	70
+resource	spices,	413,	63
+resource	grain,	411,	73
 
 ;Arguin_Province
 resource	slaves,	56,	37
@@ -1008,6 +1024,8 @@ resource	cotton,	444,	14
 ;Dongola_Province
 resource	slaves,	397,	2
 resource	ivory,	392,	2
+resource	elephants,	380,	2
+resource	camels,	385,	7
 
 ; ## Faction Provinces
 

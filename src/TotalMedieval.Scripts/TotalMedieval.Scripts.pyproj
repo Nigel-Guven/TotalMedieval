@@ -25,7 +25,7 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="scripts\get_resources_by_province.py" />
-    <Compile Include="scripts\get_all_resources.py" />
+    <Compile Include="scripts\get_resource_counts_by_province.py" />
     <Compile Include="scripts\get_resource_counts.py" />
   </ItemGroup>
   <ItemGroup>
@@ -36,12 +36,12 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="resources\inputs\map_macro_regions.yaml" />
-    <Content Include="resources\outputs\current_macro_regions_resources.txt" />
-    <Content Include="resources\outputs\current_province_configuration.txt" />
-    <Content Include="resources\outputs\current_resource_configuration.txt" />
+    <Content Include="resources\outputs\province_resource_count.txt" />
+    <Content Include="resources\outputs\macro_regions_resources_count.txt" />
+    <Content Include="resources\outputs\resources_by_province_configuration.txt" />
     <Content Include="resources\inputs\map_provinces.txt" />
     <Content Include="resources\inputs\map_resources.txt" />
-    <Content Include="resources\outputs\current_resource_counts.txt" />
+    <Content Include="resources\outputs\resource_counts.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in

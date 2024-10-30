@@ -36,7 +36,7 @@ sorted_resources = [
 
 sorted_resources.sort(key=lambda x: x[1], reverse=True)
 
-output_file_path = 'resources\\outputs\\current_macro_regions_resources.txt'
+output_file_path = 'resources\\outputs\\macro_regions_resources_count.txt'
 with open(output_file_path, 'w') as output_file:
     output_file.write("Resources by Macro Region (with counts):\n")
     for region, total_resources in sorted_resources:

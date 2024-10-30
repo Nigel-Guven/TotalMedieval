@@ -11,9 +11,11 @@ Kiev_Province: 4 resources
 Krakow_Province: 4 resources
 Venice_Province: 4 resources
 Novgorod_Province: 4 resources
+Cardiff_Province: 4 resources
 Helsinki_Province: 4 resources
 Viatka_Province: 4 resources
 Riga_Province: 4 resources
+Cuba: 4 resources
 Atil_Province: 4 resources
 Samandar_Province: 4 resources
 Tzernigov_Province: 4 resources
@@ -23,6 +25,7 @@ Nuremburg_Province: 4 resources
 Iasi_Province: 4 resources
 Tbilisi_Province: 4 resources
 Kutais_Province: 4 resources
+Tabriz_Province: 4 resources
 Nicaea_Province: 4 resources
 Athens_Province: 4 resources
 Syracuse_Province: 4 resources
@@ -34,9 +37,11 @@ Mekka_Province: 4 resources
 Buraidah_Province: 4 resources
 Tyre_Province: 4 resources
 Tripoli_Province: 4 resources
+Dumyat_Province: 4 resources
 Arguin_Province: 4 resources
 Timbuktu_Province: 4 resources
 Thebes_Province: 4 resources
+Dongola_Province: 4 resources
 Roman_Province: 3 resources
 Iconium_Province: 3 resources
 London_Province: 3 resources
@@ -50,6 +55,7 @@ Edinburgh_Province: 3 resources
 Jerusalem_Province: 3 resources
 Antioch_Province: 3 resources
 Vilnius_Province: 3 resources
+Caernarvon_Province: 3 resources
 Tver_Province: 3 resources
 North_America: 3 resources
 Hrodna_Province: 3 resources
@@ -58,6 +64,7 @@ Arensburg_Province: 3 resources
 Palanga_Province: 3 resources
 Visby_Province: 3 resources
 Ancona_Province: 3 resources
+Krak_de_Chevaliers_Province: 3 resources
 Valladolid_Province: 3 resources
 Exeter_Province: 3 resources
 Clermont_Province: 3 resources
@@ -68,6 +75,7 @@ Moscow_Province: 3 resources
 Belo-Ozero_Province: 3 resources
 Volga-Bulgar_Province: 3 resources
 Dublin_Province: 3 resources
+Wexford_Province: 3 resources
 Donegal_Province: 3 resources
 Stettin_Province: 3 resources
 Hamburg_Province: 3 resources
@@ -92,6 +100,7 @@ Barcelona_Province: 3 resources
 Ragusa_Province: 3 resources
 Zara_Province: 3 resources
 Florence_Province: 3 resources
+Trebizond_Province: 3 resources
 Sinope_Province: 3 resources
 Marseille_Province: 3 resources
 Yerevan_Province: 3 resources
@@ -108,6 +117,8 @@ Mosul_Province: 3 resources
 Cagliari_Province: 3 resources
 Edessa_Province: 3 resources
 Smyrna_Province: 3 resources
+Ayla_Province: 3 resources
+Al_Suways_Province: 3 resources
 Palermo_Province: 3 resources
 Marrakesh_Province: 3 resources
 Sijilmasa_Province: 3 resources
@@ -115,6 +126,7 @@ Isle_of_Cyprus: 3 resources
 Isle_of_Cyprus2: 3 resources
 Damascus_Province: 3 resources
 Tunis_Province: 3 resources
+Acre_Province: 3 resources
 Isle_of_Rhodes: 3 resources
 Isle_of_Crete: 3 resources
 Ascalon_Province: 3 resources
@@ -128,7 +140,6 @@ Toledo_Province: 2 resources
 Milan_Province: 2 resources
 Marienburg_Province: 2 resources
 Cork_Province: 2 resources
-Caernarvon_Province: 2 resources
 Murom_Province: 2 resources
 Tingvalla_Province: 2 resources
 Oran_Province: 2 resources
@@ -145,7 +156,6 @@ Poznan_Province: 2 resources
 Santiago_Province: 2 resources
 Utrecht_Province: 2 resources
 Galway_Province: 2 resources
-Cardiff_Province: 2 resources
 Gloucester_Province: 2 resources
 Konigsberg_Province: 2 resources
 Danzig_Province: 2 resources
@@ -153,9 +163,7 @@ Inverness_Province: 2 resources
 Aberdeen_Province: 2 resources
 Dumfries_Province: 2 resources
 Smolensk_Province: 2 resources
-Wexford_Province: 2 resources
 York_Province: 2 resources
-Cuba: 2 resources
 Ryazan_Province: 2 resources
 Nottingham_Province: 2 resources
 Antwerp_Province: 2 resources
@@ -177,19 +185,11 @@ Preslav_Province: 2 resources
 Bologna_Province: 2 resources
 Pamplona_Province: 2 resources
 Genoa_Province: 2 resources
-Trebizond_Province: 2 resources
-Tabriz_Province: 2 resources
 Ajaccio_Province: 2 resources
 Abydus_Province: 2 resources
 Adana_Province: 2 resources
 Attalia_Province: 2 resources
 Granada_Province: 2 resources
 Aleppo_Province: 2 resources
-Ayla_Province: 2 resources
-Al_Suways_Province: 2 resources
 Medina_Province: 2 resources
 Corinth_Province: 2 resources
-Acre_Province: 2 resources
-Dumyat_Province: 2 resources
-Dongola_Province: 2 resources
-Krak_de_Chevaliers_Province: 1 resources

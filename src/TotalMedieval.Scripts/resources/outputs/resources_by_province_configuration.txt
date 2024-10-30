@@ -1,3 +1,5 @@
+## Resources:
+
 Tenochtitlan_Province:
   - timber
   - gold
@@ -138,6 +140,7 @@ Cork_Province:
 Caernarvon_Province:
   - wool
   - coal
+  - textiles
 
 Murom_Province:
   - iron
@@ -236,6 +239,8 @@ Galway_Province:
 Cardiff_Province:
   - timber
   - coal
+  - grain
+  - tin
 
 Visby_Province:
   - silver
@@ -249,6 +254,8 @@ Ancona_Province:
 
 Krak_de_Chevaliers_Province:
   - sugar
+  - spices
+  - camels
 
 Valladolid_Province:
   - timber
@@ -363,6 +370,7 @@ Dublin_Province:
 Wexford_Province:
   - furs
   - timber
+  - silver
 
 Donegal_Province:
   - furs
@@ -376,6 +384,8 @@ York_Province:
 Cuba:
   - silver
   - timber
+  - gold
+  - tobacco
 
 Ryazan_Province:
   - timber
@@ -633,6 +643,7 @@ Florence_Province:
 Trebizond_Province:
   - silver
   - sulfur
+  - sulfur
 
 Sinope_Province:
   - silver
@@ -652,6 +663,8 @@ Yerevan_Province:
 Tabriz_Province:
   - silk
   - iron
+  - elephants
+  - gold
 
 Zaragoza_Province:
   - iron
@@ -794,10 +807,12 @@ Aleppo_Province:
 Ayla_Province:
   - silk
   - iron
+  - camels
 
 Al_Suways_Province:
   - fish
   - iron
+  - spices
 
 Mekka_Province:
   - marble
@@ -871,6 +886,7 @@ Tunis_Province:
 Acre_Province:
   - silver
   - silk
+  - grain
 
 Isle_of_Rhodes:
   - silver
@@ -924,6 +940,8 @@ Alexandria_Province:
 Dumyat_Province:
   - cotton
   - sugar
+  - spices
+  - grain
 
 Arguin_Province:
   - slaves
@@ -946,4 +964,6 @@ Thebes_Province:
 Dongola_Province:
   - slaves
   - ivory
+  - elephants
+  - camels
 

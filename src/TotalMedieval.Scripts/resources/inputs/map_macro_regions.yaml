@@ -124,6 +124,7 @@ macro:
   Africa:
     - Oran_Province
     - Al-Mahdiya_Province
+    - Al-Mansurya_Province
     - Arguin_Province
     - Timbuktu_Province
     - Marrakesh_Province
@@ -139,6 +140,7 @@ macro:
     - Alexandria_Province
     - Dumyat_Province
     - Arguin_Province
+    - Tripoli_Province 
   Steppe:
     - Sarkel_Province
     - Tmutarakan_Province
@@ -198,7 +200,6 @@ macro:
     - Kerak_Province
     - Tyre_Province
     - Ascalon_Province
-    - Tripoli_Province 
     - Acre_Province
     - Ayla_Province
     - Al_Suways_Province
@@ -215,7 +216,6 @@ macro:
     - Mekka_Province
     - Medina_Province
     - Buraidah_Province
-    - Al-Mansurya_Province
     - Edessa_Province
   Caucasia:
     - Tbilisi_Province

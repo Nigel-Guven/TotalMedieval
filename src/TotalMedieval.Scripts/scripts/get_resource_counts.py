@@ -1,6 +1,6 @@
 from collections import defaultdict
 
-def count_resources(file_path, output_file='resources\\outputs\\current_resource_counts.txt'):
+def count_resources(file_path, output_file='resources\\outputs\\resource_counts.txt'):
     resource_counts = defaultdict(int)
     
     try:
@@ -19,8 +19,11 @@ def count_resources(file_path, output_file='resources\\outputs\\current_resource
         print(f"The file {file_path} was not found.")
         return
     
+    # Sort resources by count in descending order
+    sorted_resources = sorted(resource_counts.items(), key=lambda item: item[1], reverse=True)
+    
     with open(output_file, 'w') as out_file:
-        for resource, count in resource_counts.items():
+        for resource, count in sorted_resources:
             out_file.write(f"{resource}: {count}\n")
     
     print(f"Resource counts have been written to {output_file}")
