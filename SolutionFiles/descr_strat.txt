@@ -81,12 +81,14 @@ resource	wine,	256,	159
 ;Frankfurt_Province
 resource	wool,	243,	240
 resource	coal,	243,	248
+resource	grain,	249,	253
+resource	dogs,	237,	247
 
 ;Cordoba_Province
 resource	silver,	126,	143
 resource	sugar,	119,	137
 resource	sulfur,	128,	154
-
+resource	spices,	120,	131
 
 ;Iconium_Province
 resource	sulfur,	398,	137
@@ -118,6 +120,7 @@ resource	furs,	377,	232
 resource	silver,	370,	251
 resource	timber,	373,	246
 resource	slaves,	380,	241
+resource	grain,	372,	238
 
 ;Budapest_Province
 resource	wine,	301,	208
@@ -133,6 +136,7 @@ resource	slaves,	323,	242
 ;Arhus_Province
 resource	fish,	245,	295
 resource	amber,	249,	300
+resource	dogs,	245,	313
 
 ;Lisbon_Province
 resource	marble,	101,	155
@@ -142,6 +146,7 @@ resource	wine,	98,		143
 ;Toledo_Province
 resource	iron,	132,	164
 resource	wool,	141,	165
+resource	grain,	146,	171
 
 ;Naples_Province
 resource	wool,	266,	153
@@ -157,6 +162,7 @@ resource	dyes,	257,	199
 ;Milan_Province
 resource	textiles,	235,	196
 resource	grain,	232,	196
+resource	grain,	241,	294
 
 ;Edinburgh_Province
 resource	furs,	178,	304
@@ -190,6 +196,7 @@ resource	slaves,	333,	292
 ;Marienburg_Province
 resource	timber,	301,	271
 resource	iron,	295,	272
+resource	grain,	303,	271
 
 ;Novgorod_Province
 resource	furs,	350,	314
@@ -210,10 +217,12 @@ resource	textiles,	164,	276
 ;Murom_Province
 resource	iron,	443,	285
 resource	grain,	445,	279
+resource	dogs,	447,	304
 
 ;Tingvalla_Province
 resource	furs,	260,	330
 resource	timber,	255,	330
+resource	grain,	263,	330
 
 ;Tver_Province
 resource	furs,	381,	316
@@ -232,6 +241,7 @@ resource	wine,	267,	102
 ;Badajoz_Province
 resource	timber,	121,	160
 resource	wool,	114,	160
+resource	dogs,	116,	166
 
 ;North_America
 resource	gold,	43,	316
@@ -252,10 +262,12 @@ resource	gold,	14,	223
 ;Lancaster_Province
 resource	timber,	175,	288
 resource	coal,	174,	284
+resource	grain,	175,	281
 
 ;Castle_Town_Province
 resource	furs,	166,	293
 resource	fish,	166,	292
+resource	sulfur,	167,	293
 
 ;Wick_Province
 resource	fish,	175,	331
@@ -265,10 +277,13 @@ resource	dogs,	173,	329
 ;Skara_Province
 resource	timber,	260,	319
 resource	amber,	268,	323
+resource	sulfur,	255,	315
+resource	grain,	266,	315
 
 ;Agder_Province
 resource	fish,	235,	320
 resource	amber,	232,	319
+resource	grain,	231,	322
 
 ;Hrodna_Province
 resource	furs,	328,	274
@@ -288,6 +303,7 @@ resource	amber,	310,	320
 ;Poznan_Province
 resource	timber,	287,	261
 resource	amber,	279,	262
+resource	grain,	291,	258
 
 ;Palanga_Province
 resource	timber,	310,	300
@@ -297,10 +313,12 @@ resource	amber,	302,	299
 ;Santiago_Province
 resource	timber,	112,	194
 resource	coal,	115,	187
+resource	grain,	109,	184
 
 ;Utrecht_Province
 resource	textiles,	219,	261
 resource	dyes,	214,	271
+resource	grain,	221,	264
 
 ;Galway_Province
 resource	furs,	139,	300
@@ -343,6 +361,8 @@ resource	tin,	178,	257
 ;Gloucester_Province
 resource	dyes,	180,	272
 resource	tin,	176,	275
+resource	tin,	176,	265
+resource	dogs,	177,	277
 
 ;Clermont_Province
 resource	iron,	189,	198
@@ -367,10 +387,12 @@ resource	camels,	454,	87
 ;Konigsberg_Province
 resource	timber,	304,	283
 resource	amber,	297,	287
+resource	dogs,	303,	288
 
 ;Danzig_Province
 resource	furs,	285,	279
 resource	amber,	281,	282
+resource	dogs,	280,	275
 
 ;Inverness_Province
 resource	timber,	173,	318
@@ -380,6 +402,7 @@ resource	coal,	166,	318
 ;Aberdeen_Province
 resource	fish,	181,	321
 resource	iron,	176,	315
+resource	dogs,	176,	321
 
 ;Dumfries_Province
 resource	fish,	167,	303
@@ -437,6 +460,7 @@ resource	amber,	306,	307
 ;Smolensk_Province
 resource	furs,	368,	286
 resource	timber,	365,	285
+resource	dogs,	372,	286
 
 ;Dublin_Province
 resource	furs,	158,	296
@@ -457,6 +481,7 @@ resource	iron,	150,	306
 ;York_Province
 resource	wool,	187,	287
 resource	coal,	184,	294
+resource	dogs,	182,	303
 
 ;Cuba
 resource	silver,	47,	283
@@ -467,10 +492,12 @@ resource	tobacco,	51,	276
 ;Ryazan_Province
 resource	timber,	418,	278
 resource	iron,	422,	278
+resource	dogs,	432,	283
 
 ;Nottingham_Province
 resource	wool,	191,	274
 resource	dyes,	186,	275
+resource	dogs,	194,	266
 
 ;Stettin_Province
 resource	furs,	267,	274
@@ -513,10 +540,13 @@ resource	cotton,	497,	222
 ;Antwerp_Province
 resource	textiles,	208,	253
 resource	dyes,	212,	255
+resource	dogs,	208,	259
 
 ;Magdeburg_Province
 resource	timber,	256,	271
 resource	wool,	253,	263
+resource	grain,	255,	268
+resource	dogs,	261,	256
 
 ;Halych_Province
 resource	furs,	333,	240
@@ -526,12 +556,15 @@ resource	slaves,	338,	246
 ;Peremyshl_Province
 resource	furs,	321,	248
 resource	timber,	326,	246
+resource	sulfur,	312,	259
+resource	grain,	318,	264
 
 ;Tzernigov_Province
 resource	furs,	383,	270
 resource	timber,	391,	255
 resource	sulfur,	378,	264
 resource	slaves,	381,	257
+resource	grain,	397,	239
 
 ;Kozelsk_Province
 resource	furs,	400,	277
@@ -543,6 +576,7 @@ resource	slaves,	395,	277
 resource	furs,	359,	262
 resource	sulfur,	345,	264
 resource	slaves,	351,	266
+resource	grain,	347,	259
 
 ;Minsk_Province
 resource	timber,	352,	286
@@ -557,10 +591,12 @@ resource	wool,	199,	244
 ;Metz_Province
 resource	timber,	225,	233
 resource	iron,	219,	230
+resource	grain,	228,	237
 
 ;Caen_Province
 resource	timber,	185,	243
 resource	dyes,	175,	239
+resource	grain,	174,	231
 
 ;Prague_Province
 resource	timber,	273,	232
@@ -595,6 +631,7 @@ resource	wine,	357,	218
 resource	timber,	353,	217
 resource	iron,	348,	225
 resource	timber,	338,	228
+resource	grain,	353,	212
 
 ;Tixtla_Province
 resource	gold,	4,	206
@@ -621,6 +658,7 @@ resource	slaves,	417,	219
 resource	silver,	395,	207
 resource	timber,	389,	209
 resource	slaves,	402,	214
+resource	grain,	396,	223
 
 ;Vienna_Province
 resource	silver,	272,	217
@@ -635,14 +673,17 @@ resource	coal,	211,	213
 ;Bern_Province
 resource	furs,	220,	206
 resource	timber,	221,	217
+resource	grain,	222,	203
 
 ;Innsbruck_Province
 resource	furs,	254,	216
 resource	timber,	248,	213
+resource	grain,	252,	213
 
 ;Bordeaux_Province
 resource	wine,	170,	189
 resource	dyes,	167,	200
+resource	grain,	172,	185
 
 ;Tbilisi_Province
 resource	furs,	471,	191
@@ -680,18 +721,22 @@ resource	sugar,	183,	165
 ;Leon_Province
 resource	wool,	124,	192
 resource	coal,	125,	178
+resource	grain,	123,	173
 
 ;Zagreb_Province
 resource	timber,	283,	189
 resource	iron,	277,	190
+resource	grain,	280,	195
 
 ;Belgrade_Province
 resource	timber,	303,	175
 resource	iron,	311,	184
+resource	grain,	305,	176
 
 ;Sofia_Province
 resource	furs,	328,	177
 resource	timber,	339,	184
+resource	grain,	331,	176
 
 ;Preslav_Province
 resource	wine,	350,	187
@@ -711,6 +756,7 @@ resource	iron,	274,	184
 ;Bologna_Province
 resource	marble,	245,	187
 resource	cotton,	250,	188
+resource	grain,	255,	179
 
 ;Pamplona_Province
 resource	marble,	151,	186
@@ -902,6 +948,7 @@ resource	tobacco,	24,	88
 resource	silver,	445,	129
 resource	silk,	442,	128
 resource	spices,	448,	134
+resource	tin,	444,	124
 
 ;Ayla_Province
 resource	silk,	447,	53
@@ -912,6 +959,7 @@ resource	camels,	461,	63
 resource	fish,	423,	60
 resource	iron,	435,	59
 resource	spices,	425,	60
+resource	ivory,	439,	44
 
 ;Mekka_Province
 resource	marble,	479,	12
