@@ -8,6 +8,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionFiles", "SolutionFiles", "{5E802E8C-84FF-4C12-A5E6-A5A2A976384F}"
 	ProjectSection(SolutionItems) = preProject
 		SolutionFiles\descr_strat.txt = SolutionFiles\descr_strat.txt
+		SolutionFiles\map_regions.tga = SolutionFiles\map_regions.tga
 	EndProjectSection
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "TotalMedieval.Scripts", "src\TotalMedieval.Scripts\TotalMedieval.Scripts.pyproj", "{D01D8429-8360-41C5-9F4D-4353F4756DD1}"
@@ -20,7 +21,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TotalMedieval.Api", "src\To
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TotalMedieval.WebApi", "src\TotalMedieval.WebApi\TotalMedieval.WebApi.csproj", "{DB21306C-953C-481A-841D-611D228DD5E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TotalMedieval.Infrastructure", "src\TotalMedieval.Infrastructure\TotalMedieval.Infrastructure.csproj", "{7B2216F8-789F-49D6-89C3-1D95FB83C00A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TotalMedieval.Infrastructure", "src\TotalMedieval.Infrastructure\TotalMedieval.Infrastructure.csproj", "{7B2216F8-789F-49D6-89C3-1D95FB83C00A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

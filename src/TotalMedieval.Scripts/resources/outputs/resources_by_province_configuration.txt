@@ -19,10 +19,14 @@ Constantinople_Province:
 Frankfurt_Province:
   - wool
   - coal
+  - grain
+  - dogs
 
 Cordoba_Province:
   - silver
   - sugar
+  - sulfur
+  - spices
 
 Iconium_Province:
   - sulfur
@@ -54,6 +58,7 @@ Kiev_Province:
   - silver
   - timber
   - slaves
+  - grain
 
 Budapest_Province:
   - wine
@@ -69,6 +74,7 @@ Krakow_Province:
 Arhus_Province:
   - fish
   - amber
+  - dogs
 
 Lisbon_Province:
   - marble
@@ -78,6 +84,7 @@ Lisbon_Province:
 Toledo_Province:
   - iron
   - wool
+  - grain
 
 Naples_Province:
   - wool
@@ -92,6 +99,7 @@ Venice_Province:
 
 Milan_Province:
   - textiles
+  - grain
   - grain
 
 Edinburgh_Province:
@@ -126,6 +134,7 @@ Vilnius_Province:
 Marienburg_Province:
   - timber
   - iron
+  - grain
 
 Novgorod_Province:
   - furs
@@ -146,10 +155,12 @@ Caernarvon_Province:
 Murom_Province:
   - iron
   - grain
+  - dogs
 
 Tingvalla_Province:
   - furs
   - timber
+  - grain
 
 Tver_Province:
   - furs
@@ -168,6 +179,7 @@ Malta_Province:
 Badajoz_Province:
   - timber
   - wool
+  - dogs
 
 North_America:
   - gold
@@ -188,10 +200,12 @@ Huaxtepec_Province:
 Lancaster_Province:
   - timber
   - coal
+  - grain
 
 Castle_Town_Province:
   - furs
   - fish
+  - sulfur
 
 Wick_Province:
   - fish
@@ -201,10 +215,13 @@ Wick_Province:
 Skara_Province:
   - timber
   - amber
+  - sulfur
+  - grain
 
 Agder_Province:
   - fish
   - amber
+  - grain
 
 Hrodna_Province:
   - furs
@@ -224,6 +241,7 @@ Arensburg_Province:
 Poznan_Province:
   - timber
   - amber
+  - grain
 
 Palanga_Province:
   - timber
@@ -233,10 +251,12 @@ Palanga_Province:
 Santiago_Province:
   - timber
   - coal
+  - grain
 
 Utrecht_Province:
   - textiles
   - dyes
+  - grain
 
 Galway_Province:
   - furs
@@ -279,6 +299,8 @@ Exeter_Province:
 Gloucester_Province:
   - dyes
   - tin
+  - tin
+  - dogs
 
 Clermont_Province:
   - iron
@@ -303,10 +325,12 @@ Kerak_Province:
 Konigsberg_Province:
   - timber
   - amber
+  - dogs
 
 Danzig_Province:
   - furs
   - amber
+  - dogs
 
 Inverness_Province:
   - timber
@@ -316,6 +340,7 @@ Inverness_Province:
 Aberdeen_Province:
   - fish
   - iron
+  - dogs
 
 Dumfries_Province:
   - fish
@@ -373,6 +398,7 @@ Riga_Province:
 Smolensk_Province:
   - furs
   - timber
+  - dogs
 
 Dublin_Province:
   - furs
@@ -393,6 +419,7 @@ Donegal_Province:
 York_Province:
   - wool
   - coal
+  - dogs
 
 Cuba:
   - silver
@@ -403,10 +430,12 @@ Cuba:
 Ryazan_Province:
   - timber
   - iron
+  - dogs
 
 Nottingham_Province:
   - wool
   - dyes
+  - dogs
 
 Stettin_Province:
   - furs
@@ -449,10 +478,13 @@ Samandar_Province:
 Antwerp_Province:
   - textiles
   - dyes
+  - dogs
 
 Magdeburg_Province:
   - timber
   - wool
+  - grain
+  - dogs
 
 Halych_Province:
   - furs
@@ -462,12 +494,15 @@ Halych_Province:
 Peremyshl_Province:
   - furs
   - timber
+  - sulfur
+  - grain
 
 Tzernigov_Province:
   - furs
   - timber
   - sulfur
   - slaves
+  - grain
 
 Kozelsk_Province:
   - furs
@@ -479,6 +514,7 @@ Turov_Province:
   - furs
   - sulfur
   - slaves
+  - grain
 
 Minsk_Province:
   - timber
@@ -493,10 +529,12 @@ Bruges_Province:
 Metz_Province:
   - timber
   - iron
+  - grain
 
 Caen_Province:
   - timber
   - dyes
+  - grain
 
 Prague_Province:
   - timber
@@ -531,6 +569,7 @@ Iasi_Province:
   - timber
   - iron
   - timber
+  - grain
 
 Tixtla_Province:
   - gold
@@ -557,6 +596,7 @@ Cherson_Province:
   - silver
   - timber
   - slaves
+  - grain
 
 Vienna_Province:
   - silver
@@ -571,14 +611,17 @@ Dijon_Province:
 Bern_Province:
   - furs
   - timber
+  - grain
 
 Innsbruck_Province:
   - furs
   - timber
+  - grain
 
 Bordeaux_Province:
   - wine
   - dyes
+  - grain
 
 Tbilisi_Province:
   - furs
@@ -616,18 +659,22 @@ Barcelona_Province:
 Leon_Province:
   - wool
   - coal
+  - grain
 
 Zagreb_Province:
   - timber
   - iron
+  - grain
 
 Belgrade_Province:
   - timber
   - iron
+  - grain
 
 Sofia_Province:
   - furs
   - timber
+  - grain
 
 Preslav_Province:
   - wine
@@ -647,6 +694,7 @@ Zara_Province:
 Bologna_Province:
   - marble
   - cotton
+  - grain
 
 Pamplona_Province:
   - marble
@@ -838,6 +886,7 @@ Aleppo_Province:
   - silver
   - silk
   - spices
+  - tin
 
 Ayla_Province:
   - silk
@@ -848,6 +897,7 @@ Al_Suways_Province:
   - fish
   - iron
   - spices
+  - ivory
 
 Mekka_Province:
   - marble
