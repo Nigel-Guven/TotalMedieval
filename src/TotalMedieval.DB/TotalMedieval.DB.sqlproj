@@ -73,6 +73,9 @@
     <Build Include="tables\ProvinceHiddenResources.sql" />
     <Build Include="tables\ProvinceResources.sql" />
     <Build Include="sprocs\add_province_resource.sql" />
+    <Build Include="tables\MapCoordinates.sql" />
+    <Build Include="tables\FactionColors.sql" />
+    <Build Include="tables\MapObjects.sql" />
   </ItemGroup>
   <ItemGroup>
     <RefactorLog Include="log\TotalMedieval.DB.refactorlog" />
@@ -85,5 +88,7 @@
     <None Include="data\populate_religions.sql" />
     <None Include="data\populate_hidden_resources.sql" />
     <None Include="data\populate_provinces.sql" />
+    <None Include="data\populate_map_objects.sql" />
+    <None Include="data\populate_faction_color_table.sql" />
   </ItemGroup>
 </Project>

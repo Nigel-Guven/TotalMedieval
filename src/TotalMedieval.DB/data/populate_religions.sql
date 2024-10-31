@@ -1,10 +1,18 @@
 ﻿-- Script adds every religion from KGCM to a religion table
 
-INSERT INTO dbo.Religions(religion_name)
+INSERT INTO dbo.MapObjects([object])
 VALUES 
-('catholic'),
-('orthodox'),
-('islam'),
-('pagan'),
-('heretic'),
-('sungod')
+('Ship'),
+('Soldier'),
+('Diplomat'),
+('Merchant'),
+('Priest'),
+('Spy'),
+('Assassin'),
+('Princess'),
+('Heretic'),
+('Witch'),
+('Map_Resource'),
+('City'),
+('Watchtower'),
+('Fort')

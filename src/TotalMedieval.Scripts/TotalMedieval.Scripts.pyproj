@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>d01d8429-8360-41c5-9f4d-4353f4756dd1</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>scripts\get_resource_counts.py</StartupFile>
+    <StartupFile>scripts\configurations\get_resource_counts.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,18 +21,23 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="scripts\get_macro_region_resources_count.py">
+    <Compile Include="scripts\configurations\get_macro_region_resources_count.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="scripts\get_resources_by_province.py" />
-    <Compile Include="scripts\get_resource_counts_by_province.py" />
-    <Compile Include="scripts\get_resource_counts.py" />
+    <Compile Include="scripts\configurations\get_resources_by_province.py" />
+    <Compile Include="scripts\configurations\get_resource_counts_by_province.py" />
+    <Compile Include="scripts\configurations\get_resource_counts.py" />
+    <Compile Include="scripts\database\populate_coordinates_table.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="resources\inputs\" />
     <Folder Include="resources\outputs\" />
     <Folder Include="scripts\" />
     <Folder Include="resources\" />
+    <Folder Include="scripts\database\" />
+    <Folder Include="scripts\configurations\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="resources\inputs\map_macro_regions.yaml" />
