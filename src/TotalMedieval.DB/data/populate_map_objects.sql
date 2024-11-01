@@ -16,7 +16,8 @@ VALUES
 ('Watchtower'),
 ('Fort'),
 ('Inquisitor'),
-('Port')
+('Port'),
+('Water')
 
 
 
