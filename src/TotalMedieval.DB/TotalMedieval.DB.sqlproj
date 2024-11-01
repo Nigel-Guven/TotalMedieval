@@ -89,6 +89,6 @@
     <None Include="data\populate_hidden_resources.sql" />
     <None Include="data\populate_provinces.sql" />
     <None Include="data\populate_map_objects.sql" />
-    <None Include="data\populate_faction_color_table.sql" />
+    <None Include="data\populate_color_meanings.sql" />
   </ItemGroup>
 </Project>

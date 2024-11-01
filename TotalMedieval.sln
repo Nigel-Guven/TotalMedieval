@@ -7,6 +7,7 @@ Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "TotalMedieval.DB", "src\Tot
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionFiles", "SolutionFiles", "{5E802E8C-84FF-4C12-A5E6-A5A2A976384F}"
 	ProjectSection(SolutionItems) = preProject
+		SolutionFiles\descr_regions.txt = SolutionFiles\descr_regions.txt
 		SolutionFiles\descr_strat.txt = SolutionFiles\descr_strat.txt
 		SolutionFiles\map_regions.tga = SolutionFiles\map_regions.tga
 	EndProjectSection

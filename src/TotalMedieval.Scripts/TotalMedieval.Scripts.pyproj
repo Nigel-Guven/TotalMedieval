@@ -27,7 +27,13 @@
     <Compile Include="scripts\configurations\get_resources_by_province.py" />
     <Compile Include="scripts\configurations\get_resource_counts_by_province.py" />
     <Compile Include="scripts\configurations\get_resource_counts.py" />
-    <Compile Include="scripts\database\populate_coordinates_table.py">
+    <Compile Include="scripts\database\colors\get_coordinates_based_on_rgb_value.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="scripts\database\colors\get_descr_regions_province_colors.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="scripts\database\colors\populate_coordinates_table.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
@@ -38,6 +44,7 @@
     <Folder Include="resources\" />
     <Folder Include="scripts\database\" />
     <Folder Include="scripts\configurations\" />
+    <Folder Include="scripts\database\colors\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="resources\inputs\map_macro_regions.yaml" />
@@ -47,6 +54,9 @@
     <Content Include="resources\inputs\map_provinces.txt" />
     <Content Include="resources\inputs\map_resources.txt" />
     <Content Include="resources\outputs\resource_counts.txt" />
+    <Content Include="scripts\database\colors\generate_region_color_sql.txt">
+      <SubType>Code</SubType>
+    </Content>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
