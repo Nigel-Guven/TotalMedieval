@@ -27,6 +27,7 @@
     <Compile Include="scripts\configurations\get_resources_by_province.py" />
     <Compile Include="scripts\configurations\get_resource_counts_by_province.py" />
     <Compile Include="scripts\configurations\get_resource_counts.py" />
+    <Compile Include="scripts\database\colors\get_city_port_coordinates.py" />
     <Compile Include="scripts\database\colors\get_coordinates_based_on_rgb_value.py">
       <SubType>Code</SubType>
     </Compile>
@@ -58,6 +59,7 @@
     <Content Include="resources\inputs\map_provinces.txt" />
     <Content Include="resources\inputs\map_resources.txt" />
     <Content Include="resources\outputs\resource_counts.txt" />
+    <Content Include="scripts\database\colors\city_xy.txt" />
     <Content Include="scripts\database\colors\generate_region_color_sql.txt">
       <SubType>Code</SubType>
     </Content>
