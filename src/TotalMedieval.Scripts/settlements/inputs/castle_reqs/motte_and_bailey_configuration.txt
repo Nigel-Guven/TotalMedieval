@@ -1,0 +1,22 @@
+level motte_and_bailey
+region INSERT_PROVINCE
+year_founded 0
+population 250
+plan_set default_set
+faction_creator INSERT_FACTION
+building
+{
+	type core_castle_building motte_and_bailey
+}
+building
+{
+	type castle_barracks garrison_quarters
+}
+building
+{
+	type missiles bowyer
+}
+building
+{
+	type hinterland_farms farms
+}

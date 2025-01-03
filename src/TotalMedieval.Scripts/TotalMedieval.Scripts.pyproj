@@ -38,6 +38,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="settlements\" />
     <Folder Include="resources\inputs\" />
     <Folder Include="resources\outputs\" />
     <Folder Include="scripts\" />
@@ -45,6 +46,9 @@
     <Folder Include="scripts\database\" />
     <Folder Include="scripts\configurations\" />
     <Folder Include="scripts\database\colors\" />
+    <Folder Include="settlements\inputs\" />
+    <Folder Include="settlements\inputs\city_reqs\" />
+    <Folder Include="settlements\inputs\castle_reqs\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="resources\inputs\map_macro_regions.yaml" />
@@ -57,6 +61,18 @@
     <Content Include="scripts\database\colors\generate_region_color_sql.txt">
       <SubType>Code</SubType>
     </Content>
+    <Content Include="settlements\inputs\castle_reqs\castles.txt" />
+    <Content Include="settlements\inputs\castle_reqs\motte_and_bailey_configuration.txt" />
+    <Content Include="settlements\inputs\castle_reqs\stone_castle_configuration.txt" />
+    <Content Include="settlements\inputs\castle_reqs\wooden_castle_configuration.txt" />
+    <Content Include="settlements\inputs\city_reqs\cities.txt" />
+    <Content Include="settlements\inputs\city_reqs\large_city_configuration.txt" />
+    <Content Include="settlements\inputs\city_reqs\large_town_developed_configuration.txt" />
+    <Content Include="settlements\inputs\city_reqs\large_town_undeveloped_configuration.txt" />
+    <Content Include="settlements\inputs\city_reqs\minor_city_configuration.txt" />
+    <Content Include="settlements\inputs\city_reqs\encampment_configuration.txt" />
+    <Content Include="settlements\inputs\city_reqs\town_configuration.txt" />
+    <Content Include="settlements\inputs\city_reqs\village_configuration.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in

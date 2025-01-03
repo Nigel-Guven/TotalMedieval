@@ -1,0 +1,18 @@
+level village
+region INSERT_PROVINCE
+year_founded 0
+population 400
+plan_set default_set
+faction_creator INSERT_FACTION
+building
+{
+	type hinterland_farms farms
+}
+building
+{
+	type barracks town_watch
+}
+building
+{
+	type market corn_exchange
+}

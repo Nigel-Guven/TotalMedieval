@@ -1,0 +1,26 @@
+level large_town
+region INSERT_PROVINCE
+year_founded 0
+population 900
+plan_set default_set
+faction_creator INSERT_FACTION
+building
+{
+	type core_castle_building wooden_castle
+}
+building
+{
+	type castle_barracks garrison_quarters
+}
+building
+{
+	type missiles bowyer
+}
+building
+{
+	type hinterland_farms farms
+}
+building
+{
+	type INSERT_RELIGION_TYPE INSERT_BUILDING_LEVEL
+}

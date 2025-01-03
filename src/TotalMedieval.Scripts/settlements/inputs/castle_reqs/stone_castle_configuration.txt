@@ -1,0 +1,42 @@
+level motte_and_bailey
+region INSERT_PROVINCE
+year_founded 0
+population 2000
+plan_set default_set
+faction_creator INSERT_FACTION
+building
+{
+	type core_castle_building wooden_castle
+}
+building
+{
+	type castle_barracks garrison_quarters
+}
+building
+{
+	type missiles bowyer
+}
+building
+{
+	type hinterland_farms farms
+}
+building
+{
+	type equestrian stables
+}
+building
+{
+	type hinterland_castle_roads c_roads
+}
+building
+{
+	type castle_siege c_ballista_range
+}
+building
+{
+	type castle_smith c_leather_tanner
+}
+building
+{
+	type INSERT_RELIGION_TYPE INSERT_BUILDING_LEVEL
+}

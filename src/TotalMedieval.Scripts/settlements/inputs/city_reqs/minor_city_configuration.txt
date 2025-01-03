@@ -1,0 +1,38 @@
+level city
+region INSERT_PROVINCE
+year_founded 0
+population 6000
+plan_set default_set
+faction_creator INSERT_FACTION
+building
+{
+	type core_building stone_wall
+}
+building
+{
+	type hinterland_farms farms
+}
+building
+{
+	type hinterland_roads roads
+}
+building
+{
+	type barracks town_watch
+}
+building
+{
+	type city_hall town_hall
+}
+building
+{
+	type market market
+}
+building
+{
+	type taverns brothel
+}
+building
+{
+	type INSERT_RELIGION_TYPE INSERT_BUILDING_LEVEL
+}
